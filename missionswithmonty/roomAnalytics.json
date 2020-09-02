@@ -1,0 +1,34 @@
+{
+  "room_name_analytics_keys": {
+    "rm_map_main": ["map"],
+    "rm_rf_leader_main": ["rainforest", "leader"],
+    "rm_rf_env_main": ["rainforest"," environment"],
+    "rm_rf_highlight_main": ["rainforest","highlight"],
+    "rm_rf_summary_main":["rainforest", "summary"],
+    "rm_rf_quiz_main": ["rainforest","quiz"],
+    "rm_rf_confidence_main": ["rainforest","monitoring"],
+    "rm_rf_confidence_review_main": ["rainforest","monitoring_review"],
+    "rm_rf_multisource_main": ["rainforest", "moment_of_truth"]
+},
+  "pause_room_names": [
+    "rm_rf_env_overlay",
+    "rm_rf_passage_main",
+    "rm_rf_instructions_main",
+    "rm_rf_quiz_pause",
+    "rm_rf_highlight_pauseKeyword",
+    "rm_rf_highlight_pauseThumbnail",
+    "rm_cm_glossary_main"
+  ],
+  "passage_room_names": [
+    "rm_rf_highlight_main",
+    "rm_rf_summary_main",
+    "rm_rf_quiz_main",
+    "rm_rf_confidence_main",
+    "rm_rf_confidence_review_main"
+  ],
+  "record_time_room_names": [
+    "rm_rf_passage_main",
+    "rm_rf_instructions_main",
+    "rm_cm_glossary_main"
+  ]
+}

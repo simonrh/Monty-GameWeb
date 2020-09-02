@@ -1,0 +1,88 @@
+{
+  "paragraphs": [{
+    "text": "An ecosystem is a community where many plants and animals live together. Rainforests are a type of ecosystem. Wildlife University is located in a rainforest. The rainforest is a great ecosystem for Wildlife University. It helps us study these plants and animals. It also helps us learn how plants and animals live together.",
+    "highlights": [0],
+    "thumbnails": []
+  },
+    {
+      "text": "Temperate and tropical rainforests are two types of rainforests. Both rainforests get heavy rain, have thick vegetation, and have many evergreen trees. Evergreen trees stay green all year. Temperate rainforests are found in the cooler climates of the temperate zones far away from the equator. Trees in temperate rainforests have needle leaves. Tropical rainforests are found near the equator. It is very warm there. Trees in tropical rainforests have broad leaves and can grow up to 90 feet tall. Tropical rainforests receive more rainfall than temperate rainforests. Wildlife University is in a tropical rainforest.",
+      "highlights": [0],
+      "thumbnails": [0]
+    },
+    {
+      "text": "Tropical rainforests are one of the oldest ecosystems on Earth. Tropical rainforests are very warm and rainy. This means they have high humidity. Humidity is the amount of water in the air. High humidity is important. This gives animals and plants a perfect environment to live. Rainforests are rich in biodiversity which means that there are many kinds of plants and animals living there. For example, the canopy is a great home for animals that supports biodiversity. The tops of tall evergreen trees form a dense layer of leaf covering called a canopy. The canopy blocks the sun from the forest floor. Vines from the soil are also part of the canopy. These vines grow up tree trunks and along branches. Two-thirds of the world's plants and animals live in tropical rainforests.",
+      "highlights": [6],
+      "thumbnails": []
+    },
+    {
+      "text": "Tropical rainforests are important for the whole world. Rainforests grow many foods. These include coffee, sugar, and bananas. They even have ingredients for medicine. Tropical rainforests also affect the wind, rain, and temperature of other ecosystems. Unfortunately, rainforests are in danger. One danger is that trees are being cut down in the rainforests. So, plants and animals living in Wildlife University are also in danger. ",
+      "highlights": [0],
+      "thumbnails": []
+    }
+  ],
+  "summaries": {
+    "good": "Temperate and tropical rainforests get a lot of rain.\nRainforests are ecosystems that support biodiversity. Many plants and animals important for the entire world live in rainforests. \n",
+    "middle": "Rainforests are ecosystems important for the entire world. They grow many foods and have ingredients for medicine.",
+    "bad": "The climate in rainforests does not support much plant and animal life because it rains too much there. Also, rainforests have a lot of the same organisms."
+  },
+  "quiz": [{
+    "type": "declarative",
+    "question": "What are the two types of rainforests?",
+
+    "correctAnswer": "Tropical and temperate",
+    "answers": [
+      "Temperate and sierra",
+      "Tropical and temperate",
+      "Tropical and non-tropical",
+      "Temperate and tundra"
+    ]
+  },
+    {
+      "type": "declarative",
+      "question": "A canopy is",
+
+      "correctAnswer": "a dense layer of leaf-covering in a forest that blocks the sun from the forest floor.",
+      "answers": [
+        "a tree found in tropical rainforests that stays green all year and grows up to 90 ft tall.",
+        "a dense layer of leaf-covering in a forest that blocks the sun from the forest floor.",
+        "all the living and non-living things in an environment, including their interactions.",
+        "an imaginary circle around the Earth that divides the planet into two equal parts."
+      ]
+    }, {
+      "type": "declarative",
+      "question": "All species rely on all the living and non-living things in their",
+
+      "correctAnswer": "ecosystem.",
+      "answers": [
+        "habitat.",
+        "ecosystem.",
+        "climate.",
+        "environment."
+      ]
+    }, {
+      "type": "conceptual",
+      "question": "Which type of rainforests are represented by the green areas? ",
+      "imageIndex": 1,
+      "imageThumbnailIndex": 1,
+      "correctAnswer": "Temperate",
+      "answers": [
+        "Tropical",
+        "Humid",
+        "Temperate",
+        "Biodiverse"
+      ]
+    },
+    {
+      "type": "conceptual",
+      "question": "The Fragas do Eume is a rainforest in Galacia, Spain that is far from the equator. Knowing this, what kind of rainforest is the Fragas do Eume? ",
+
+      "correctAnswer": "Temperate",
+      "answers": [
+        "Temperate",
+        "Humid",
+        "Tropical",
+        "Biodiverse"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "paragraphs": [
+    {
+      "text": "Ecosystems are communities of organisms that live and interact within their environment. Some organisms are very connected to their ecosystem and sensitive to changes in their ecosystem. One example is coral.",
+      "highlights": [
+        0
+      ],
+      "thumbnails": []
+    },
+    {
+      "text": "Coral are small invertebrate animals. Invertebrate means they do not have a backbone. Individual coral are very small, sometimes only a few millimeters in width. Coral live together in large colonies called coral reefs. Coral reefs can be very large. A famous example is the Great Barrier Reef, which is more than 1,200 miles long. Coral reefs are found near the shore in tropical oceans. The Great Barrier Reef is found off the north-east coast of Australia. A reef is made of layers of calcium carbonate that the coral deposit to build their home. When coral die the reef is left behind. New coral then build on the existing reef making it grow. Coral reefs are important to their ecosystem because they attract many other living organisms. Coral reefs make up only 1% of the ocean floor but they attract 25% of all ocean life.",
+      "highlights": [
+        11
+      ],
+      "thumbnails": [5]
+    },
+    {
+      "text": "Coral need to live in warm water. Coral live inside the reef they build and they do not leave. Therefore, coral rely heavily on their environment. They depend on the water to bring fresh food every day. Living in shallow water near the shore gives them access to steadily-moving water to deliver this food. Coral use their tentacles to catch food in the water. They also use their tentacles to defend themselves against predators. Coral collect calcium from the moving water to build the reef.",
+      "highlights": [
+        2
+      ],
+      "thumbnails": []
+    },
+    {
+      "text": "Unlike many other organisms, coral cannot leave when there are changes to their ecosystem. Toxic pollutants in the water can cause great damage to the coral reefs by killing coral and other organisms that live on reefs. Sometimes humans also break off pieces of the reef. This kills the delicate coral. Coral also cannot move if the temperature of the water becomes too hot. Climate change is causing a rise in the temperature of tropical ocean waters, which is beginning to kill coral.",
+      "highlights": [
+        1
+      ],
+      "thumbnails": []
+    },
+    {
+      "text": "Coral reefs are fragile homes to coral and many other organisms. Coral and many other organisms rely on these important ecosystems for food and shelter. Coral cannot protect themselves from problems in their environment.",
+      "highlights": [
+        1
+      ],
+      "thumbnails": []
+    }
+  ],
+  "summaries": {
+    "good": "Coral are small invertebrate organisms that live in colonies called reefs found near the shore. They live in tropical ocean waters. Coral are very sensitive to changes in their ecosystem. Water pollutants and rising water temperatures are the greatest threats to their survival. ",
+    "middle": "Coral are small invertebrate organisms. They live in warm waters near the shore. This gives them access to moving water that delivers food. They use their tentacles to catch food, defend themselves against predators, and collect calcium to build reefs. ",
+    "bad": "Coral are small aquatic organisms that live in reefs. They are commonly found in freshwater lakes and rivers. Unlike many other organisms, coral have adapted to changes in their ecosystem. Rising temperatures because of climate change and water pollution do not impact them."
+  },
+  "quiz": [
+    {
+      "type": "declarative",
+      "question": "Which of the following is TRUE about coral and problems in the environment? ",
+
+      "correctAnswer": "Coral and other organisms are killed when pollutants damage coral reefs.",
+      "answers": [
+        "Coral have adapted to increasing temperatures in tropical ocean waters.",
+        "Coral repair themselves if a human breaks pieces off portions of the reef.",
+        "Coral and other organisms are killed when pollutants damage coral reefs.",
+        "Coral have many ways to protect themselves from problems in the environment."
+      ]
+    },
+    {
+      "type": "declarative",
+      "question": "Corals need to live in ___ water.",
+
+      "correctAnswer": "warm",
+      "answers": [
+        "cold",
+        "deep",
+        "fresh",
+        "warm"
+      ]
+    },
+    {
+      "type": "declarative",
+      "question": "Which is NOT TRUE about coral?",
+
+      "correctAnswer": "Coral can live in many different environments.",
+      "answers": [
+        "Coral reefs are very attractive to many other living organisms.",
+        "Climate change is creating dangers for coral to live.",
+        "Coral use their tentacles to catch food.",
+        "Coral can live in many different environments."
+      ]
+    },
+    {
+      "type": "conceptual",
+      "question": "Marnie is going to the lake with her family. In the car, she says, 'Dad, I can't wait to see a coral reef when we get to the lake!' Marnie's dad tells her she won't see a coral reef at the lake. Which of the following best explains why?",
+
+      "correctAnswer": "Coral need warm water, so they live in tropical oceans near the shore.",
+      "answers": [
+        "The lake is too cloudy for Marnie to see a coral reef at the bottom.",
+        "The lake is too polluted for coral to survive, so a coral reef cannot form.",
+        "Coral need more space than a lake to create a large coral reef.",
+        "Coral need warm water, so they live in tropical oceans near the shore."
+      ]
+    },
+    {
+      "type": "conceptual",
+      "question": "Which is NOT an invertebrate animal?",
+
+      "correctAnswer": "Fish",
+      "answers": [
+        "Worms",
+        "Starfish",
+        "Jellyfish",
+        "Fish"
+      ]
+    }
+  ]
+}

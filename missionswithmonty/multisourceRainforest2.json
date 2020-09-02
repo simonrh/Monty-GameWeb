@@ -1,0 +1,240 @@
+{
+    "factors": [{
+            "id": "foodweb1",
+            "imageFile": "img_rf_multisource_image38.png",
+            "thumbnailFile": "img_rf_multisource_thumbnail38.png",
+            "description": "food web 1",
+            "isBiotic": true,
+            "isBackground": true
+        },
+        {
+            "id": "foodweb2",
+            "imageFile": "img_rf_multisource_image39.png",
+            "thumbnailFile": "img_rf_multisource_thumbnail39.png",
+            "description": "food web 2",
+            "isBiotic": true,
+            "isBackground": true
+        },
+        {
+            "id": "antelopesquirrel",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail40.png",
+            "description": "antelope squirrel",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "blackfly",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail41.png",
+            "description": "black fly",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "canalpollution",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail42.png",
+            "description": "canal pollution",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "carpfish",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail43.png",
+            "description": "carp fish",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "clearshrimp",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail44.png",
+            "description": "clear shrimp",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "coralreef",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail45.png",
+            "description": "coral reef",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "deadcoralreef",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail46.png",
+            "description": "dead coral reef",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "dolphin",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail47.png",
+            "description": "dolphin",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "farm",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail48.png",
+            "description": "farm",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "fox",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail49.png",
+            "description": "fox",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "grassfield",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail50.png",
+            "description": "grass field",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "grasshopper",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail51.png",
+            "description": "grasshopper",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "lake",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail52.png",
+            "description": "lake",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "lizard",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail53.png",
+            "description": "lizard",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "mantid",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail54.png",
+            "description": "mantid",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "orangecrab",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail55.png",
+            "description": "orange crab",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "plasticinwater",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail56.png",
+            "description": "plastic in water",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "pollutedwater",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail57.png",
+            "description": "polluted water",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "river",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail58.png",
+            "description": "river",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "sewageandindustrialwaste",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail59.png",
+            "description": "sewage and industrial waste",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "shark",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail60.png",
+            "description": "shark",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "slug",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail61.png",
+            "description": "slug",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "trashonbeach",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail62.png",
+            "description": "trash on beach",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "trashonland",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail63.png",
+            "description": "trash on land",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "waterfalls",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail64.png",
+            "description": "waterfalls",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "whitesquid",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail65.png",
+            "description": "white squid",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "woodrat",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail66.png",
+            "description": "wood rat",
+            "isBiotic": false,
+            "isBackground": false
+        }
+    ],
+    "answers": {
+        "background": "foodweb1",
+        "abiotic": ["clearshrimp", "carpfish", "blackfly", "slug"],
+        "biotic": ["canalpollution", "plasticinwater", "pollutedwater", "sewageandindustrialwaste"]
+    }
+}

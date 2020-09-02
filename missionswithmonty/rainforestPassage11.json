@@ -1,0 +1,149 @@
+{
+  "paragraphs": [
+    {
+      "text": "Land pollution causes the destruction of land resources and occurs for many reasons. For instance, adding chemicals to soil, disposing of trash improperly, or removing trees can all cause land pollution. Land pollution causes long-term problems that cannot easily be solved.",
+      "highlights": [
+        0
+      ],
+      "thumbnails": []
+    },
+    {
+      "text": "One common land pollutant is solid waste. Solid waste is day-to-day trash that is thrown out by people. Solid waste ends up in landfills. Some of the trash is biodegradable, like food scraps and paper. Biodegradable means the trash breaks down into organic matter very quickly. Unfortunately, a lot of trash in landfills is not biodegradable. Plastic items, batteries, and soda cans are not biodegradable. Solid waste that isn't biodegradable is harmful to the environment because it takes years to break down and may leak toxic chemicals into the soil.",
+      "highlights": [
+        7
+      ],
+      "thumbnails": []
+    },
+    {
+      "text": "Land pollution also occurs when chemicals are added to the soil. Farmers often use pesticides and fertilizers to protect their crops. Unfortunately, most of these chemicals remain in the soil for many years. Pesticides and fertilizers can hurt organisms living in the soil such as insects and worms. The chemicals can also mix with water in the soil. When the water drains from the soil it is called runoff. Runoff containing fertilizers and other pollutants enters into rivers and lakes causing water pollution, which harms aquatic animals like fish and frogs.",
+      "highlights": [
+        3,
+        6
+      ],
+      "thumbnails": [11]
+    },
+    {
+      "text": "Deforestation can also destroy land. Deforestation is the cutting down of acres of trees. Trees are cut down to make paper and furniture. Trees are also cut down to clear land to build roads, farms, houses, and other things humans use. Deforestation destroys habitats for animals and plants. Animals are then forced to move to survive. Deforestation also leads to erosion or the wearing away of the top layer of soil. When erosion occurs it is difficult for new plants to grow in these areas.",
+      "highlights": [
+        4
+      ],
+      "thumbnails": []
+    }
+  ],
+  "summaries": {
+    "good": "Land pollution is harmful to the earth. Humans cause land pollution by throwing out trash. Pollution can also come from pesticides and fertilizers from farms. Clearing of forests can lead to the destruction of land.",
+    "middle": "Land pollution is caused by trash that is thrown out by humans. This trash ends up in landfills. Some trash can be broken down into organic matter. This is biodegradable waste. The amount of trash thrown out should be reduced.",
+    "bad": "Land pollution is caused by solid waste in landfills, deforestation and the use of pesticides and fertilizers. Deforestation sometimes does not cause land pollution. When trees are cut down to make farms, the oxygen level is not reduced because of the plants in the farms."
+  },
+  "quiz": [
+    {
+      "type": "declarative",
+      "question": "Which of the following is a cause of land pollution? ",
+      "correctAnswer": "Erosion",
+      "answers": [
+        "Solid waste",
+        "Eutrophication",
+        "Erosion",
+        "Runoff"
+      ]
+    },
+    {
+      "type": "declarative",
+      "question": "Which of the following is NOT a source of pollutants for soil?",
+      "correctAnswer": "Steam",
+      "answers": [
+        "Pesticides",
+        "Steam",
+        "Industrial waste",
+        "Fertilizers"
+      ]
+    },
+    {
+      "type": "conceptual",
+      "question": "Which of the following best describes what is happening in the photo?",
+      "imageIndex": 4,
+      "imageThumbnailIndex": 4,
+      "correctAnswer": "Deforestation",
+      "answers": [
+        "Runoff",
+        "Eutrophication",
+        "Deforestation",
+        "Erosion"
+      ]
+    },
+    {
+      "type": "conceptual",
+      "question": "Juan's family had a picnic at the beach. Which of the following trash from the picnic is biodegradable?",
+      "correctAnswer": "Paper plates",
+      "answers": [
+        "Plastic cups",
+        "Paper plates",
+        "Beach toys",
+        "Soda Cans"
+      ]
+    },
+    {
+      "type": "conceptual",
+      "question": "What is one main reason that grocery stores may use paper bags? ",
+      "correctAnswer": "Paper bags decompose more quickly than plastic.",
+      "answers": [
+        "Paper bags are sturdier than plastic bags.",
+        "Paper bags are cheaper than plastic bags.",
+        "Paper bags decompose more quickly than plastic.",
+        "Paper bags are lighter to carry than are plastic bags."
+      ]
+    },
+    {
+      "type": "declarative",
+      "question": "Which is a true statement from the data the researchers found? (see the “Pollutants” graph)",
+      "imageIndex": 5,
+      "imageThumbnailIndex": 5,
+      "correctAnswer": "There were several pollutants found.",
+      "answers": [
+        "No water pollutants were found.",
+        "Plastic was the biggest pollutant found.",
+        "There were several pollutants found.",
+        "The air quality test found no pollutants."
+      ]
+    },
+    {
+      "type": "declarative",
+      "question": "In the data about pollutants, which of the following is true about fertilizers? (see “Pollutants” graph)",
+      "imageIndex": 5,
+      "imageThumbnailIndex": 5,
+      "correctAnswer": "Fertilizer was found both on land and in water.",
+      "answers": [
+        "Fertilizer was found only in the land.",
+        "Fertilizer was found both on land and in water.",
+        "Fertilizer was found only in the air.",
+        "Fertilizer was found in air and water."
+      ]
+    },
+    {
+      "type": "declarative",
+      "question": "Pesticides can be a pollutant for land or water. Where were pesticides found in the data shared? (see the “Pollutants” graphs)",
+      "imageIndex": 5,
+      "imageThumbnailIndex": 5,
+      "correctAnswer": "Water and land",
+      "answers": [
+        "Air only",
+        "Water only",
+        "Water and land",
+        "Land only"
+      ]
+    },
+    {
+      "type": "declarative",
+      "question": "Which of the following had the most types of pollutants? (see the “Pollutants” graph)",
+      "imageIndex": 5,
+      "imageThumbnailIndex": 5,
+      "correctAnswer": "River",
+      "answers": [
+        "Rainforest",
+        "Air",
+        "Ocean",
+        "River"
+      ]
+    }
+  ]
+}

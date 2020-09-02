@@ -1,0 +1,143 @@
+{
+  "paragraphs": [
+    {
+      "text": "Water pollution occurs when harmful substances enter a body of water. These harmful substances make it dangerous for living organisms. Any body of water can be polluted. For example, rivers and oceans are polluted when trash enters the water. It is important to protect our water sources to protect living organisms.",
+      "highlights": [0],
+      "thumbnails": []
+    },
+    {
+      "text": "There are many sources of water pollution. Toxic substances from farms, cars, and factories enter the water to cause pollution. These toxic substances are called pollutants. Pollutants  are very harmful to the animals and plants that depend on the water.",
+      "highlights": [3],
+      "thumbnails": []
+    },
+    {
+      "text": "Pollutants can enter the water in many ways. Pollutants in the air can drift into water sources. Air pollutants also mix with raindrops, causing acid rain. Pollutants can also come from factories and farms. Wastewater from factories is drained into water sources. Chemicals used in farming, like pesticides and fertilizers, mix with groundwater in the soil. Groundwater and rainwater drain into nearby bodies of water. This water is called runoff. Runoff can carry dangerous chemicals like fertilizers from the soil into bodies of water. Trash like plastic bottles and straws are also water pollutants.",
+      "highlights": [2,8],
+      "thumbnails": [16]
+    },
+    {
+      "text": "Water pollutants can hurt and kill organisms that depend on water for their survival. Eutrophication is one example of water pollution. Eutrophication occurs when there are too many nutrients in the water. Plants need nutrients to grow. But too many nutrients can be very harmful. There needs to be a balance of nutrients available in the ecosystem. When large amounts of nutrients get into water, plants grow too quickly. Algae, for example, grows quickly when there are too many nutrients. The extra algae block sunlight from other plants growing in the water. When there are too many algae, they begin to compete for resources. The algae begin to die very quickly. As the dead algae decompose, there is not enough oxygen left in the water. Fish and other water animals who need the oxygen also begin to die. Eutrophication creates a dead zone in the water where nothing can survive.",
+      "highlights": [2,13],
+      "thumbnails": []
+    }
+  ],
+  "summaries": {
+    "good": "Water is important for all living organisms. Water pollution happens when harmful substances enter a body of water. This can happen in many different ways and can cause plants and animals to die. Eutrophication can also cause plants and animals to die.",
+    "middle": "All living organisms rely on water to survive. Water pollution is dangerous to them. Pollutants can come from everywhere to cause water pollution. For example, the toxic substances in soil and rainwater can pollute nearby bodies of water.",
+    "bad": "Water is important for all living organisms. Water pollution is dangerous to them. Eutrophication is a way to prevent water pollution because it provides plants and animals with extra nutrients. Living organisms can still get food from the water."
+  },
+  "quiz": [
+    {
+      "type":  "declarative",
+      "question": "Which of the following best describes water pollution?",
+
+      "correctAnswer": "When harmful substances enter a body of water.",
+      "answers": [
+        "When there are too many nutrients in a body of water.",
+        "When harmful substances enter a body of water.",
+        "When the sun provides too much energy to a body of water.",
+        "Where there is a lack of nitrogen in a body of water."
+      ]
+    },
+    {
+      "type":  "declarative",
+      "question": "Which of the following is true about eutrophication? ",
+
+      "correctAnswer": "Eutrophication happens when there are too many nutrients in water.",
+      "answers": [
+        "Eutrophication makes water healthier by adding more oxygen.",
+        "Eutrophication eliminates pollutants from water to make it healthier.",
+        "Eutrophication happens when there are too many nutrients in water.",
+        "Eutrophication filters out the extra nutrients that aren't needed in water."
+      ]
+    },
+    {
+      "type":  "declarative",
+      "question": "Pollutants are actions that ",
+
+      "correctAnswer": "cause pollution.",
+      "answers": [
+        "prevent pollution.",
+        "cause pollution.",
+        "reduce pollution.",
+        "solve pollution."
+      ]
+    },
+    {
+      "type":  "conceptual",
+      "question": "What would happen if eutrophication were to occur in the pond in the ecosystem below?",
+      "imageIndex": 6,
+      "imageThumbnailIndex": 6,
+      "correctAnswer": "The fish would die from a lack of oxygen in the water.",
+      "answers": [
+        "The water would evaporate more in the pond from the sunlight.",
+        "The water would benefit all organisms from more nutrients.",
+        "The fish would die from a lack of oxygen in the water.",
+        "The dragonfly would have better conditions for reproducing."
+      ]
+    },
+    {
+      "type":  "conceptual",
+      "question": "Which of the following is an example of protecting water sources from pollution? ",
+      "correctAnswer": "Pedro drinks from a reusable water bottle.",
+      "answers": [
+        "Pedro drinks from a reusable water bottle.",
+        "Michelle throws dirty water in the backyard.",
+        "Ron sprays the weeds in his driveway with chemicals.",
+        "Loretta leaves a plastic bottle in the ocean."
+      ]
+    },
+    {
+      "type":  "declarative",
+      "question": "Which statement is true about the River Water Testing data for week 4?",
+      "imageIndex": 7,
+      "imageThumbnailIndex": 7,
+      "correctAnswer": "The fertilizer concentration is dangerous.",
+      "answers": [
+        "The wastewater concentration is dangerous.",
+        "The pesticide concentration is safe.",
+        "The fertilizer concentration is dangerous.",
+        "The three chemicals' concentration is safe."
+      ]
+    },
+    {
+      "type":  "declarative",
+      "question": "Which is true about the Ocean Water Testing data for week 2?",
+      "imageIndex": 7,
+      "imageThumbnailIndex": 7,
+      "correctAnswer": "The pesticide concentration is safe.",
+      "answers": [
+        "The wastewater concentration is dangerous.",
+        "The pesticide concentration is safe.",
+        "The fertilizer concentration is safe.",
+        "All three chemicals' concentration is dangerous."
+      ]
+    },
+    {
+      "type":  "conceptual",
+      "question": "If the concentration of pesticides shown in the River Water Testing data continues to increase, what will happen?",
+      "imageIndex": 7,
+      "imageThumbnailIndex": 7,
+      "correctAnswer": "Organisms will die from the toxic chemicals.",
+      "answers": [
+        "Plants will filter out the toxic chemicals.",
+        "Organisms will die from the toxic chemicals.",
+        "Animals will adapt to survive with the toxic chemicals.",
+        "Plants and animals will move to a new ecosystem."
+      ]
+    },
+    {
+      "type":  "conceptual",
+      "question": "Which is a solution to prevent the concentration of chemicals from increasing in the River and Ocean Water Testing data?",
+      "imageIndex": 7,
+      "imageThumbnailIndex": 7,
+      "correctAnswer": "Farmers can reduce the amount of fertilizers they use.",
+      "answers": [
+        "People can use more pesticides to balance the concentration.",
+        "Factories can release more wastewater to balance the concentration.",
+        "Farmers can reduce the amount of fertilizers they use.",
+        "Farmers can use more pesticides and fertilizers."
+      ]
+    }
+  ]
+}

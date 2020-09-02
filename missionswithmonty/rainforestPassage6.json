@@ -1,0 +1,120 @@
+{
+  "paragraphs": [
+    {
+      "text": "Water quality describes how healthy the water is for living organisms. There are several features of water that help us describe water quality. ",
+      "highlights": [
+        0
+      ],
+      "thumbnails": []
+    },
+    {
+      "text": "Gases are dissolved in water, and the organisms living in the water need these gases. Just like land organisms, water organisms need oxygen and carbon dioxide. Sometimes water does not have enough dissolved gases. When this happens, organisms do not have the gases they need to survive. Animals may be able to move to a new area to get the oxygen they need. Plants, however, are not able to move on their own and may die from a lack of carbon dioxide. Healthy water has balanced levels of dissolved gases.",
+      "highlights": [
+        6
+      ],
+      "thumbnails": []
+    },
+    {
+      "text": "Water quality is also affected by the acidity of the water. An example of something with high acidity is lemon juice. Healthy water is not highly acidic. Animals need healthy water to drink. Acidic water can cause plants to die if they are not used to it. It can also damage aquatic animals by hurting their skin, eyes, or other parts of their body. Pollution can make water more acidic. For example, air pollution mixes with rain to cause acid rain. When acid rain falls to Earth, it mixes with bodies of water and makes the water acidic. ",
+      "highlights": [
+        0
+      ],
+      "thumbnails": []
+    },
+    {
+      "text": "Pollutants can greatly change the quality of water. When pollutants like fertilizers and sewer water drain into water sources, they can become toxic to the organisms living there. Pesticides, or chemicals that kill insects, are especially dangerous to small organisms in the water, like snails. When water insects die, fish, birds, and other organisms do not have enough food to survive.",
+      "highlights": [
+        1
+      ],
+      "thumbnails": []
+    },
+    {
+      "text": "Pollutants can change the balance of natural elements in the water. Elements, like oxygen and nitrogen, need to be balanced for plants and animals to survive best. For example, some plants grow best when they have a certain amount of nitrogen in the soil. If this amount of nitrogen becomes too low, the plant does not grow well. Changes to the balance of elements can also cause some plants to grow more. This can lead to one plant taking over an entire area. For example, algae can take over a lake when the nitrogen level in the lake is high. This unnatural increase in algae is called an algae bloom.",
+      "highlights": [
+        1,
+        4
+      ],
+      "thumbnails": [4]
+    },
+    {
+      "text": "Trash from humans can also cause harm to living things. Trash that is not biodegradable can end up in water bodies. For example, plastic bags, straws and other human trash end up in lakes, oceans and seas. The Great Pacific Garbage Patch is an island of plastic trash found in the Pacific Ocean. It is twice the size of Texas. Trash can tangle around animals, causing them to have trouble breathing. They can also accidentally ingest trash. Trash can also cause other injuries to plants and animals.",
+      "highlights": [],
+      "thumbnails": []
+    },
+    {
+      "text": "Poor water quality can cause plants and animals to become sick or die. Therefore, it is very important to monitor water quality.",
+      "highlights": [
+        0
+      ],
+      "thumbnails": []
+    }
+  ],
+  "summaries": {
+    "good": "Water quality is important for organisms. Healthy water has high levels of dissolved gases and is not acidic. Pollutants such as pesticides and trash decrease water quality. Pollutants also change the amount of elements in the water. ",
+    "middle": "Water quality is impacted by the acidity of the water. Healthy water is not acidic. If water is high in acidity, organisms can be damaged. Water quality is also impacted by the amount of elements in the water. Too much or too little of an element can be bad for organisms. ",
+    "bad": "Water quality means that water is healthy. Healthy water has low levels of dissolved gases and medium levels of acidity. High levels of both are harmful for organisms. Pollutants lower water quality but organisms adapt easily. For example, when the amount of elements changes, organisms adapt."
+  },
+  "quiz": [
+    {
+      "type": "declarative",
+      "question": "Which of the following is a feature that does NOT impact water quality? ",
+
+      "correctAnswer": "Depth",
+      "answers": [
+        "Acidity",
+        "Depth",
+        "Trash",
+        "Gases"
+      ]
+    },
+    {
+      "type": "declarative",
+      "question": "Elements",
+
+      "correctAnswer": "are gases and chemicals naturally found in environments.",
+      "answers": [
+        "are not always necessary for healthy water.",
+        "are not healthy for organisms to ingest.",
+        "are man-made chemicals that pollute the environment.",
+        "are gases and chemicals naturally found in environments."
+      ]
+    },
+    {
+      "type": "declarative",
+      "question": "High nitrogen levels in water can cause a(n)",
+
+      "correctAnswer": "algae bloom.",
+      "answers": [
+        "algae bloom.",
+        "element bloom.",
+        "acid bloom.",
+        "gas bloom."
+      ]
+    },
+    {
+      "type": "conceptual",
+      "question": "Ahniya is learning about water quality. She wants to help maintain healthy water. Which of the following actions could Ahniya take to help maintain healthy water? ",
+
+      "correctAnswer": "Use a reusable water bottle",
+      "answers": [
+        "Use a reusable water bottle",
+        "Drink water with a straw",
+        "Use smaller plastic water bottles",
+        "Make sure plastic goes to the trash,"
+      ]
+    },
+    {
+      "type": "conceptual",
+      "question": "Enrique has tested the water in a local lake. Which of the following is true if the water is healthy?",
+
+      "correctAnswer": "There should be low acidity in the water.",
+      "answers": [
+        "There should be no elements in the water.",
+        "There should be no gasses in the water.",
+        "There should be low acidity in the water.",
+        "There should be high nitrogen in the water."
+
+      ]
+    }
+  ]
+}

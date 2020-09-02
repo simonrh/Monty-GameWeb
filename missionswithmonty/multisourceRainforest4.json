@@ -1,0 +1,200 @@
+{
+    "factors": [{
+            "id": "river1",
+            "imageFile": "img_rf_multisource_image93.png",
+            "thumbnailFile": "img_rf_multisource_thumbnail93.png",
+            "description": "river 1",
+            "isBiotic": false,
+            "isBackground": true
+        },
+        {
+            "id": "river2",
+            "imageFile": "img_rf_multisource_image94.png",
+            "thumbnailFile": "img_rf_multisource_thumbnail94.png",
+            "description": "river 2",
+            "isBiotic": false,
+            "isBackground": true
+        },
+        {
+            "id": "bear",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail95.png",
+            "description": "bear",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "blackfish",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail96.png",
+            "description": "black fish",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "carbondioxide",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail117.png",
+            "description": "carbon dioxide",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "deer",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail98.png",
+            "description": "deer",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "dog",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail99.png",
+            "description": "dog",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "dragonfly",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail100.png",
+            "description": "dragonfly",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "duck",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail101.png",
+            "description": "duck",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "eagle",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail102.png",
+            "description": "eagle",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "earthworm",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail103.png",
+            "description": "earthworm",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "glucose",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail118.png",
+            "description": "glucose",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "grassinwater",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail105.png",
+            "description": "grass in water",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "koifish",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail106.png",
+            "description": "koi fish",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "lion",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail107.png",
+            "description": "lion",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "oxygen",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail119.png",
+            "description": "oxygen",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "rabbit",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail109.png",
+            "description": "rabbit",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "redpoppyflowers",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail110.png",
+            "description": "red poppy flowers",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "reeds",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail111.png",
+            "description": "reeds",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "squirrel",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail112.png",
+            "description": "squirrel",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "sunlight",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail113.png",
+            "description": "sunlight",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "tiger",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail114.png",
+            "description": "tiger",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "trees",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail115.png",
+            "description": "trees",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "water",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail120.png",
+            "description": "water",
+            "isBiotic": false,
+            "isBackground": false
+        }
+    ],
+    "answers": {
+        "background": "river2",
+        "abiotic": ["oxygen", "glucose"],
+        "biotic": ["blackfish", "dragonfly", "duck", "grassinwater", "koifish", "reeds"]
+    }
+}

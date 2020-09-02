@@ -1,0 +1,38 @@
+{
+    "suspects": [{
+        "name": "Croc",
+        "issue": 3,
+        "column": "spr_cm_newspaper_articles_right",
+        "index": 1
+    },
+    {
+        "name": "Mob of Meerkats",
+        "issue": 4,
+        "column": "spr_cm_newspaper_articles_right",
+        "index": 3
+    },
+    {
+        "name": "Pile of Frogs",
+        "issue": 6,
+        "column": "spr_cm_newspaper_articles_middle",
+        "index": 2
+    },
+    {
+        "name": "Sly",
+        "issue": 8,
+        "column": "spr_cm_newspaper_articles_right",
+        "index": 0
+    },
+    {
+        "name": "Marcie",
+        "issue": 7,
+        "column": "spr_cm_newspaper_articles_left",
+        "index": 5
+    },
+    {
+        "name": "Spartacus",
+        "issue": 8,
+        "column": "spr_cm_newspaper_articles_left",
+        "index": 4
+    }]
+}

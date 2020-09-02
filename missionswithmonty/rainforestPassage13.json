@@ -1,0 +1,91 @@
+{
+  "paragraphs": [
+    {
+      "text": "Producers are very important for all other organisms' survival. Consumers rely on producers for food. Producers make their own food through a process called photosynthesis. ",
+      "highlights": [2],
+      "thumbnails": []
+    },
+    {
+      "text": "Photosynthesis is the process of changing light energy from the sun into chemical energy. First, plants get light energy from the sun, which is necessary for photosynthesis. Plants make glucose, a type of sugar, through the process of photosynthesis. Glucose is the food that plants use for energy. Plants need carbon dioxide, water, and sunlight to carry out photosynthesis. Carbon dioxide is found in the air. Animals breathe out carbon dioxide, while plants absorb carbon dioxide through their leaves, stems, and roots. Absorb means to take in or soak up something. Plants also absorb water in the soil using their roots. Plants are made up of tiny units called cells. Chloroplasts are structures found inside plant cells. Chloroplasts have a green chemical called chlorophyll. Chlorophyll is the reason that plants' leaves are green. With the help of chlorophyll, energy from sunlight is trapped or absorbed. Imagine chloroplasts as tiny factories. Inside the chloroplasts, water from the soil and carbon dioxide from the air combine to make glucose using light energy from the sun. Then it is released into the veins of leaves to be used for energy. This energy is used to build more plant cells.",
+      "highlights": [0,4,6],
+      "thumbnails": [13]
+    },
+    {
+      "text": "Oxygen is also made through this process. Glucose and oxygen are products of photosynthesis. Oxygen made by plants is released into the air, which animals inhale. All animals need oxygen to survive. Without photosynthesis, animals would not be able to get the oxygen needed to survive. This is why it is so important to protect plants.",
+      "highlights": [1,4],
+      "thumbnails": []
+    },
+    {
+      "text": "Plants provide animals with food and oxygen they need to survive. In turn, plants use the carbon dioxide released from animals to make its own food. So, plants and animals rely on each other to survive. This is how ecosystems stay in balance.",
+      "highlights": [],
+      "thumbnails": []
+    }
+  ],
+  "summaries": {
+    "good": "Plants produce energy through photosynthesis. Plants need sunlight, carbon dioxide, and water for photosynthesis and release glucose and oxygen. Animals use this oxygen to breathe, and plants use carbon dioxide from the animals. They are interdependent.",
+    "middle": "Photosynthesis requires sunlight, water, and carbon dioxide. It uses chloroplasts and chlorophyll to produce glucose and oxygen. Plants are green because chlorophyll is green. Glucose is released into the plant's veins to give it energy, and oxygen is released into the atmosphere through the leaves.",
+    "bad": "Plants and animals can produce their own energy through photosynthesis, which uses the sun to make energy. Although sunlight is not necessary, it helps speed up photosynthesis. Plants and animals have chloroplasts, which make energy."
+  },
+  "quiz": [
+    {
+      "type":  "declarative",
+      "question": "Plants absorb ________ through their stems and leaves.",
+
+      "correctAnswer": "Carbon Dioxide",
+      "answers": [
+        "Nitrogen",
+        "Oxygen",
+        "Carbon Dioxide",
+        "Chloroplasts"
+      ]
+    },
+    {
+      "type":  "declarative",
+      "question": "Plants are green because of the __________ in their cells.",
+
+      "correctAnswer": "Chlorophyll",
+      "answers": [
+        "Chlorophyll",
+        "Oxygen",
+        "Carbon Dioxide",
+        "Glucose"
+      ]
+    },
+    {
+      "type":  "conceptual",
+      "question": "Which is a difference between plant cells and animal cells? ",
+
+      "correctAnswer": "Plant cells have chloroplasts",
+      "answers": [
+        "Animal cells have chloroplasts",
+        "Animal cells produce glucose",
+        "Plant cells have chloroplasts",
+        "Plant cells produce carbon dioxide"
+      ]
+    },
+    {
+      "type":  "conceptual",
+      "question": "Select the true statement:",
+
+      "correctAnswer": "All living things need energy.",
+      "answers": [
+        "All living things need energy.",
+        "All living things need sunlight to produce food.",
+        "All living things need to breathe oxygen.",
+        "All living things have chloroplasts."
+      ]
+    },
+    {
+      "type":  "conceptual",
+      "question": "Which is a producer?",
+
+      "correctAnswer": "Algae",
+      "answers": [
+        "Dragonfly",
+        "Algae",
+        "Turtle",
+        "Fish"
+      ]
+    }
+  ]
+}

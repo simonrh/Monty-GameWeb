@@ -1,0 +1,22 @@
+{
+  "save_room_names": [
+    "rm_rf_highlight_main",
+    "rm_rf_summary_main",
+    "rm_rf_quiz_main",
+    "rm_rf_multisource_main",
+    "rm_rf_env_main",
+    "rm_rf_leader_main",
+    "rm_rf_final",
+    "rm_rf_day_badges",
+    "rm_cm_day_transition"
+  ],
+  "cookie_fields": [
+      { "section": "Login", "key": "Username", "variable": "player_user", "is_real": false },
+      { "section": "Login", "key": "Password", "variable": "player_password", "is_real": false },
+      { "section": "Login", "key": "Expiry", "variable": "cookie_expiration_minutes" , "is_real": true },
+      { "section": "Game", "key": "Passage", "variable": "passageNumber", "is_real": true },
+      { "section": "Game", "key": "Score", "variable": "game_score", "is_real": true },
+      { "section": "Game", "key": "HasFinishedDay", "variable": "has_finished_day", "is_real": true },
+      { "section": "Game", "key": "Room", "variable": "game_room", "is_real": false }
+  ]
+}

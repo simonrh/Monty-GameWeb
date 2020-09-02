@@ -1,0 +1,107 @@
+{
+  "paragraphs": [
+    {
+      "text": "All living organisms need water to survive. Luckily, water is found all over the world. About 71% of the Earth's surface is covered in water. Water is found in oceans, rivers, and lakes. Water is also found underground. This is called groundwater. Water is found frozen as glaciers as well. Water is even found in the air as water vapor.",
+      "highlights": [
+        0
+      ],
+      "thumbnails": []
+    },
+    {
+      "text": "Most of the water on earth is salty. In fact, 97% of all the water on Earth is saltwater. Saltwater has a lot of salt dissolved in it. Oceans, seas, and even some lakes contain saltwater. Some plants and animals live in saltwater. Sharks, for example, live in saltwater. ",
+      "highlights": [
+        0
+      ],
+      "thumbnails": []
+    },
+    {
+      "text": "Only 3% of water on Earth is freshwater. Freshwater is water that has very little salt dissolved in it. Most of the freshwater on Earth is frozen in glaciers. As little as 0.3% of all freshwater on Earth is available in rivers, lakes, streams, and groundwater. Some plants and animals can only use freshwater. They cannot drink or absorb saltwater safely. So they have access to only a small portion of all water. Trout are an example of freshwater fish. They live in freshwater lakes and rivers.",
+      "highlights": [
+        0,
+        3
+      ],
+      "thumbnails": [3]
+    },
+    {
+      "text": "In addition to needing the right type of water, organisms are impacted by the quality of water. Water quality is a way to describe how 'healthy' the water is for living organisms. Organisms living in water need gases like oxygen and carbon dioxide to survive. These gases are dissolved or mixed into the water. Sometimes water does not have enough dissolved gases for animals and plants to survive. The amount of dissolved gas in the water is one way we can measure water quality. There are other characteristics of water that are used to describe water quality, such as pollutants in the water.",
+      "highlights": [
+        1
+      ],
+      "thumbnails": []
+    },
+    {
+      "text": "Water quality is changed when there are pollutants in the water. Chemicals from factories and farms enter water sources causing water pollution. Pollution can occur in both freshwater and saltwater. Once the water becomes polluted, it can be difficult or even impossible to clean. Protecting water must be a priority.",
+      "highlights": [
+        3
+      ],
+      "thumbnails": []
+    }
+  ],
+  "summaries": {
+    "good": "Water is found in many places on earth. There is a lot more saltwater than freshwater. Organisms need the right type of water to live and the water quality needs to be good for healthy organisms. Water quality is decreased by pollution.",
+    "middle": "Water can be found in oceans, lakes, rivers, streams, air, and glaciers. Only 3% of the water on earth is freshwater, which is required by organisms to survive. Protecting water is a priority for all living organisms.",
+    "bad": "Most water is found in glaciers, which hold 71% of Earth's freshwater. Water can also be found in the air as water vapor. Although some water is polluted, organisms are good at cleaning pollution from it."
+  },
+  "quiz": [
+    {
+      "type": "declarative",
+      "question": "About how much of the Earth's surface is covered in water?",
+
+      "correctAnswer": "70%",
+      "answers": [
+        "10%",
+        "30%",
+        "50%",
+        "70%"
+      ]
+    },
+    {
+      "type": "declarative",
+      "question": "Most (97%) water on Earth is",
+
+      "correctAnswer": "saltwater.",
+      "answers": [
+        "saltwater.",
+        "groundwater.",
+        "freshwater.",
+        "frozen."
+      ]
+    },
+    {
+      "type": "declarative",
+      "question": "A glacier is",
+
+      "correctAnswer": "a mass of frozen freshwater.",
+      "answers": [
+        "a cold and treeless plain.",
+        "a mass of frozen freshwater.",
+        "a small freshwater supply.",
+        "a natural water spring."
+      ]
+    },
+    {
+      "type": "conceptual",
+      "question": "Hasan learned that Kelp lives in saltwater. What would happen if he tried to grow Kelp in the lake behind his house?",
+
+      "correctAnswer": "It would not be able to survive.",
+      "answers": [
+        "It would not be able to survive.",
+        "It would not produce nitrogen.",
+        "It would produce too much oxygen.",
+        "It would produce carbon dioxide."
+      ]
+    },
+    {
+      "type": "conceptual",
+      "question": "Vivek takes a weekend vacation and camps at the river with his family. Given the river is inland and in the mountains, which is likely true?",
+
+      "correctAnswer": "The river is a freshwater source.",
+      "answers": [
+        "The river is a freshwater source.",
+        "The river likely flows south to north.",
+        "The river is part of a salt marsh.",
+        "The river contains glaciers. "
+      ]
+    }
+  ]
+}

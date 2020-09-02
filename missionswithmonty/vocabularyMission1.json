@@ -1,0 +1,380 @@
+{
+  "keywords": [
+    {
+      "phrases": ["Abiotic"],
+      "definition": "the nonliving factors in an environment, such as temperature, light, water, and nutrients."
+    },
+    {
+      "phrases": ["Absorb"],
+      "definition": "To take in or soak up."
+    },
+    {
+      "phrases": ["Acid rain"],
+      "definition": "Rain that has been made acidic by certain pollutants in the air."
+    },
+    {
+      "phrases": ["Adaptation", "Adaptations"],
+      "definition": "The process of changing to an environment; developing physical and behavioral characteristics that allow organisms to survive and have offspring."
+    },
+    {
+      "phrases": ["Air Pollution"],
+      "definition": "When unwanted chemicals, gasses, and particles enter the air and the atmosphere, causing harm to animals and damaging the natural cycles of the Earth."
+    },
+    {
+      "phrases": ["Algae bloom"],
+      "definition": "Large growths of algae caused by increased amounts of phosphorus or nitrogen."
+    },
+    {
+      "phrases": ["Altitude"],
+      "definition": "Height above a certain level and especially above sea level."
+    },
+    {
+      "phrases": ["Aquatic"],
+      "definition": "Living or growing in water."
+    },
+    {
+      "phrases": ["Atmosphere"],
+      "definition": "The blanket of gases that surround the Earth."
+    },
+    {
+      "phrases": ["Autotroph"],
+      "definition": "Organisms that produce their own food."
+    },
+    {
+      "phrases": ["Biodegradable"],
+      "definition": "Able to be broken down by the action of living organisms such as bacteria."
+    },
+    {
+      "phrases": ["Biodiversity"],
+      "definition": "The variety of plant and animal life in a habitat."
+    },
+    {
+      "phrases": ["Biome"],
+      "definition": "A large region of Earth that has a certain climate and certain types of living things."
+    },
+    {
+      "phrases": ["Biotic"],
+      "definition": "the living parts of an environment, such as plants and animals."
+    },
+    {
+      "phrases": ["Canopy"],
+      "definition": "A dense layer of leaf-covering in a forest that blocks the sun from the forest floor."
+    },
+    {
+      "phrases": ["Carnivore"],
+      "definition": "An animal that eats another animal."
+    },
+    {
+      "phrases": ["Chlorophyll"],
+      "definition": "The green coloring matter found mainly in the chloroplasts of plants that absorbs energy from sunlight to produce carbohydrates from carbon dioxide and water during photosynthesis. "
+    },
+    {
+      "phrases": ["Chloroplast", "Chloroplasts"],
+      "definition": "Organelles that make food for the plant cell and where photosynthesis takes place."
+    },
+    {
+      "phrases": ["Closed System"],
+      "definition": "Nutrients that do not leave or enter planet Earth."
+    },
+    {
+      "phrases": ["Community"],
+      "definition": "All of the different populations living in the same place."
+    },
+    {
+      "phrases": ["Compete"],
+      "definition": "To try to outdo another organism for food, sunlight, water, space, etc."
+    },
+    {
+      "phrases": ["Concentration"],
+      "definition": "The strength of a solution, or how much of a substance is mixed with another substance."
+    },
+    {
+      "phrases": ["Consumer"],
+      "definition": "Any animal that eats plants or eats other plant-eating animals."
+    },
+    {
+      "phrases": ["Coral"],
+      "definition": "A small animal that lives in warm water and attaches itself to rocks, with some types building a hard skeleton"
+    },
+    {
+      "phrases": ["Coral Reef", "Coral Reefs"],
+      "definition": "Living organisms that need warm, shallow water to form."
+    },
+    {
+      "phrases": ["Decomposer"],
+      "definition": "Any of the fungi or bacteria that break down dead plants and animals into useful things like minerals and rich soil."
+    },
+    {
+      "phrases": ["Decomposition"],
+      "definition": "The process of breaking down dead animals, plants, and waste into nutrients."
+    },
+    {
+      "phrases": ["Detritivore"],
+      "definition": "Any of the fungi or bacteria that break down dead plants and animals into useful things like minerals and rich soil."
+    },
+    {
+      "phrases": ["Deforestation"],
+      "definition": "The clearing, or cutting down, of forests."
+    },
+    {
+      "phrases": ["Digestion"],
+      "definition": "The organic processes by which food is converted into substances that can be absorbed into the body."
+    },
+    {
+      "phrases": ["Ecology"],
+      "definition": "The study of interactions between living and non-living things."
+    },
+    {
+      "phrases": ["Ecosystem", "Ecosystems"],
+      "definition": "All the living and non-living things in an environment, including their interactions with each other."
+    },
+    {
+      "phrases": ["Element", "Elements"],
+      "definition": "A pure substance that is made from a single type of atom."
+    },
+    {
+      "phrases": ["Elevation"],
+      "definition": "Height especially above sea level."
+    },
+    {
+      "phrases": ["Energy"],
+      "definition": "The ability to do work. It exists in various forms, such as thermal or electrical, and it can be converted from one form to another."
+    },
+    {
+      "phrases": ["Erosion"],
+      "definition": "When rocks and sediments are picked up and moved to another place by ice, water, wind, or gravity."
+    },
+    {
+      "phrases": ["Eutrophication"],
+      "definition": "A process in which a body of water receives a large bounty of nutrients, especially phosphates. These chemicals can enter the ecosystem naturally or through pollution."
+    },
+    {
+      "phrases": ["Evergreen Tree", "Evergreen Trees"],
+      "definition": "Trees that stay green all year and form a canopy."
+    },
+    {
+      "phrases": ["Fertilizer"],
+      "definition": "Any substance such as manure or a mixture of nitrates used to make soil more fertile, or productive."
+    },
+    {
+      "phrases": ["Food Chain"],
+      "definition": "The path of the energy in food from one organism to another."
+    },
+    {
+      "phrases": ["Freshwater"],
+      "definition": "Water that is not salty."
+    },
+    {
+      "phrases": ["Glaciers"],
+      "definition": "A large area of thick ice that remains frozen from one year to the next."
+    },
+    {
+      "phrases": ["Glucose"],
+      "definition": "A type of sugar. Hydrogen combines with carbon dioxide to make glucose. Starch is made of many glucose particles joined together."
+    },
+    {
+      "phrases": ["Groundwater"],
+      "definition": "Water that is located beneath the surface of the ground."
+    },
+    {
+      "phrases": ["Habitat"],
+      "definition": "The place where a plant or animal naturally lives and grows."
+    },
+    {
+      "phrases": ["Herbivore"],
+      "definition": "An animal that eats plants, algae, and other producers."
+    },
+    {
+      "phrases": ["Heterotroph"],
+      "definition": "An organism that eats another organism to get energy."
+    },
+    {
+      "phrases": ["High acidity"],
+      "definition": "A solution with a low pH, such as lemon juice."
+    },
+    {
+      "phrases": ["Humidity"],
+      "definition": "The amount of water vapor in the air."
+    },
+    {
+      "phrases": ["Interdependence", "Interdependent"],
+      "definition": "An inability to exist or survive without each other."
+    },
+    {
+      "phrases": ["Invertebrate"],
+      "definition": "An animal that does not have a backbone or skeleton inside of its body."
+    },
+    {
+      "phrases": ["Land pollution", "land pollution"],
+      "definition": "The deterioration, or destruction, of the Earth’s land surfaces."
+    },
+    {
+      "phrases": ["Nitrogen"],
+      "definition": "A colorless, odorless gaseous chemical element that makes up 78% of the atmosphere and forms a part of all living tissues."
+    },
+    {
+      "phrases": ["Nocturnal"],
+      "definition": "Animals that sleep during the day and are awake during the night."
+    },
+    {
+      "phrases": ["Nutrient", "Nutrients"],
+      "definition": "A substance found in food that helps living things grow, develop, and function properly"
+    },
+    {
+      "phrases": ["Nutrient Cycle"],
+      "definition": "A continuous cycle in which nutrients on earth are naturally recycled"
+    },
+    {
+      "phrases": ["Nymph"],
+      "definition": "A larva of an insect with incomplete metamorphosis."
+    },
+    {
+      "phrases": ["Omnivore"],
+      "definition": "An animal that eats both plants and animals."
+    },
+    {
+      "phrases": ["Organic Waste"],
+      "definition": "Material that is biodegradable and comes from a plant or an animal."
+    },
+    {
+      "phrases": ["Organism"],
+      "definition": "Any living thing that can carry out its life on its own."
+    },
+    {
+      "phrases": ["Pesticide", "Pesticides"],
+      "definition": "A chemical used to kill pests, such as rodents or insects."
+    },
+    {
+      "phrases": ["Phosphorus"],
+      "definition": "A chemical element that glows in the dark and in moist air."
+    },
+    {
+      "phrases": ["Photochemical Smog"],
+      "definition": "A type of smog produced when ultraviolet light from the sun reacts with nitrogen oxides in the atmosphere. It is visible as a brown haze and most common during the morning and afternoon, especially in highly populated, warm cities."
+    },
+    {
+      "phrases": ["Photosynthesis"],
+      "definition": "The process of using energy in sunlight to make food from water and carbon dioxide."
+    },
+    {
+      "phrases": ["Pollutants"],
+      "definition": "Particles, chemicals, or substances that make water contaminated."
+    },
+    {
+      "phrases": ["Population"],
+      "definition": "A group of the same kind of organisms that live together."
+    },
+    {
+      "phrases": ["Predator", "Predators"],
+      "definition": "An animal that hunts other animals for food."
+    },
+    {
+      "phrases": ["Prey"],
+      "definition": "An animal that is hunted and killed by another animal for food."
+    },
+    {
+      "phrases": ["Producer"],
+      "definition": "An organism that makes its own food."
+    },
+    {
+      "phrases": ["Primary Consumer"],
+      "definition": "Organisms that eat plants for energy."
+    },
+    {
+      "phrases": ["Primary Pollutant"],
+      "definition": "Those gases or particles that are pumped into the air to make it unclean. They include carbon monoxide from automobile exhausts and sulfur dioxide from the combustion of coal."
+    },
+    {
+      "phrases": ["Quaternary Consumer"],
+      "definition": "Organisms that eat Tertiary Consumers."
+    },
+    {
+      "phrases": ["Recycle"],
+      "definition": "Using things that have already been used before."
+    },
+    {
+      "phrases": ["Region"],
+      "definition": "An area of land that has common features or characteristics."
+    },
+    {
+      "phrases": ["Respiration"],
+      "definition": "The process in which the chemical bonds of energy-rich molecules, such as glucose, are converted into energy usable for life processes."
+    },
+    {
+      "phrases": ["Runoff"],
+      "definition": "Precipitation that flows across the land’s surface or falls into rivers and streams."
+    },
+    {
+      "phrases": ["Saltwater"],
+      "definition": "Water that is salty."
+    },
+    {
+      "phrases": ["Savanna"],
+      "definition": "A tropical grassland with some trees and shrubs."
+    },
+    {
+      "phrases": ["Scavenger"],
+      "definition": "An animal that feeds on dead or decaying material."
+    },
+    {
+      "phrases": ["Secondary Consumer"],
+      "definition": "Organisms that eat primary consumers or other animals."
+    },
+    {
+      "phrases": ["Secondary Pollutant"],
+      "definition": "When pollutants in the air mix up in a chemical reaction, they form a dangerous chemical. Photochemical smog is an example of this and is a secondary pollutant."
+    },
+    {
+      "phrases": ["Soil"],
+      "definition": "The loose upper layer of the Earth’s surface where plants grow."
+    },
+    {
+      "phrases": ["Solid waste"],
+      "definition": "Unwanted solid materials such as garbage, paper, plastics, and metals."
+    },
+    {
+      "phrases": ["Species"],
+      "definition": "Smallest group of classification."
+    },
+    {
+      "phrases": ["Temperate Rainforest", "Temperate Rainforests"],
+      "definition": "A biome far from the equator with much rainfall and a wide variety of life."
+    },
+    {
+      "phrases": ["Terrestrial"],
+      "definition": "Living or growing on land."
+    },
+    {
+      "phrases": ["Tertiary Consumer"],
+      "definition": "Organisms that eat Secondary Consumers."
+    },
+    {
+      "phrases": ["Top Predator"],
+      "definition": "The animal at the top of a food chain that has no natural enemies."
+    },
+    {
+      "phrases": ["Topsoil"],
+      "definition": "The rich upper layer of soil in which plants have most of their roots."
+    },
+    {
+      "phrases": ["Toxic"],
+      "definition": "Containing, being, or caused by poisonous or dangerous material."
+    },
+    {
+      "phrases": ["Trophic Level"],
+      "definition": "Energy level."
+    },
+    {
+      "phrases": ["Tropical Rainforest", "Tropical Rainforests"],
+      "definition": "A hot biome near the equator with much rainfall and a wide variety of life."
+    },
+    {
+      "phrases": ["Water pollution", "water pollution"],
+      "definition": "The contamination of water bodies, such as lakes, rivers, or oceans, very often by human activities."
+    },
+    {
+      "phrases": ["Weather"],
+      "definition": "The daily state of the atmosphere, or air, in any given place."
+    }
+  ]
+}

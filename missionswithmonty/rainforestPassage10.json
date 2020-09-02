@@ -1,0 +1,143 @@
+{
+  "paragraphs": [
+    {
+      "text": "Soil is another word for dirt found on the ground. Soil quality is important because plants grow in the soil. Plants absorb nutrients like nitrogen and phosphorus from the soil through their roots. Nitrogen and phosphorus are types of chemicals. When soil lacks nitrogen and phosphorus, fertilizers can be added to help plants grow. Fertilizers are chemicals that are rich in nitrogen and phosphorus.",
+      "highlights": [4],
+      "thumbnails": []
+    },
+    {
+      "text": "Soil quality also matters for insects that live in and on the ground. Many insects and animals rely on plants for food and shelter. For example, earthworms make their homes in the soil. They tunnel their way through the soil for protection and to find food. Farmers often use pesticides on their crops to kill unwanted bugs, insects, or pests. Pesticides are chemicals that are toxic to insects and bugs. They prevent insects from eating farmers' crops. But pesticides can also kill other beneficial organisms living in the soil. Pesticides and fertilizers can damage the soil during rainfall. They rinse off of plants and mix with the soil. This mixing reduces soil quality.",
+      "highlights": [0,7],
+      "thumbnails": [8]
+    },
+    {
+      "text": "Soil quality is also affected by erosion. Erosion is when soil is washed away. Soil has several layers. The first layer is called the organic layer. Below this layer is the topsoil. If you dig deeper, you will reach the subsoil, then parent material, and eventually bedrock. Plant roots grow into the topsoil where they get water and nutrients to grow. The roots of the plants build a net that keeps soil in place. When it rains the soil around plants does not wash away. If plants are removed though, rain washes away the topsoil causing soil erosion and exposing subsoil. Underneath the topsoil, it is harder for new plants to grow.",
+      "highlights": [9],
+      "thumbnails": []
+    },
+    {
+      "text": "Soil quality also varies among different ecosystems. Rainforests have lots of vegetation. Vegetation puts strain on the nutrient levels in soil. Therefore, soil quality in the rainforest is actually poor because plants use the nutrients so quickly. Deserts, on the other hand, have very dry soil and less vegetation. There are actually lots of nutrients in desert soil, but there is very little moisture for plants to grow.",
+      "highlights": [],
+      "thumbnails": [10]
+    }
+  ],
+  "summaries": {
+    "good": "Soil quality is very important for all living organisms. Poor soil quality will prevent plants from growing and harm insects living in and on the ground. High soil quality can prevent erosion so that plants can grow. Soil quality varies depending on different ecosystems.",
+    "middle": "Nitrogen and phosphorous are important chemicals in the soil. Plants need these to grow. When the soil does not have enough nitrogen and phosphorous, farmers use fertilizer so that plants can still grow. Farmers also use pesticides to kill insects.",
+    "bad": "Soil quality is very important for plants. Plants can get nutrients from the soil. However, soil quality varies between rainforests and deserts. Plants only get nutrients from rainforests because rainforests are humid and warm."
+  },
+  "quiz": [
+    {
+      "type":  "declarative",
+      "question": "Which is another word for dirt?",
+
+      "correctAnswer": "Soil",
+      "answers": [
+        "Compost",
+        "Nutrients",
+        "Soil",
+        "Tundra"
+      ]
+    },
+    {
+      "type":  "declarative",
+      "question": "Farmers use ____ to kill unwanted insects.",
+
+      "correctAnswer": "pesticides",
+      "answers": [
+        "fertilizers",
+        "nitrogen",
+        "phosphorus",
+        "pesticides"
+      ]
+    },
+    {
+      "type":  "declarative",
+      "question": "Which describes when soil is washed away?",
+
+      "correctAnswer": "Erosion",
+      "answers": [
+        "Erosion",
+        "Vegetation",
+        "Decomposition",
+        "Land pollution"
+      ]
+    },
+    {
+      "type":  "conceptual",
+      "question": "Dahlia planted an orchid in a pot. The flower receives enough sunlight and water, but it isn't growing. Which of the following could Dahlia do to help the orchid grow? ",
+
+      "correctAnswer": "Add fertilizer to the soil",
+      "answers": [
+        "Remove sunlight from the plant",
+        "Add pesticides to the soil",
+        "Add fertilizer to the soil",
+        "Remove soil from the pot"
+      ]
+    },
+    {
+      "type":  "conceptual",
+      "question": "Wamme wants to plant some bushes. She decides to dig a hole for the bushes into the subsoil layer. Which of the following best describes why Wamme shouldn't dig a hole into the subsoil layer? ",
+
+      "correctAnswer": "The subsoil doesn't provide enough water or nutrients.",
+      "answers": [
+        "The subsoil has too many nutrients.",
+        "The subsoil isn't deep enough for bushes.",
+        "The subsoil is more prone to erosion.",
+        "The subsoil doesn't provide enough water or nutrients."
+      ]
+    },
+    {
+      "type":  "conceptual",
+      "question": "Most chemicals are safe if their concentration is",
+      "imageIndex": 3,
+      "imageThumbnailIndex": 3,
+      "correctAnswer": "10 mg/kg or less.",
+      "answers": [
+        "10 mg/kg or less.",
+        "50 mg/kg or less.",
+        "100 mg/kg or less.",
+        "150 mg/kg or less."
+      ]
+    },
+    {
+      "type":  "conceptual",
+      "question": "When we compare the Rainforest and Savanna Soil data we see that:",
+      "imageIndex": 3,
+      "imageThumbnailIndex": 3,
+      "correctAnswer": "The savanna soil is more polluted than that of the rainforest in week 4.",
+      "answers": [
+        "The rainforest soil is more polluted than that of the savanna in week 1.",
+        "The rainforest soil is equally polluted as that of the savanna in week 2.",
+        "The savanna soil is equally polluted as that of the rainforest in week 3.",
+        "The savanna soil is more polluted than that of the rainforest in week 4."
+      ]
+    },
+    {
+      "type":  "conceptual",
+      "question": "Given the information in the graphs, what will happen to organisms living in the savanna?",
+      "imageIndex": 3,
+      "imageThumbnailIndex": 3,
+      "correctAnswer": "Plants will not be able to survive with polluted soil.",
+      "answers": [
+        "Plants will not be able to survive with polluted soil.",
+        "Organisms will adapt to survive with the dangerous chemicals.",
+        "Animals will filter out the chemicals when they consume food.",
+        "Plants and animals will move to a new ecosystem."
+      ]
+    },
+    {
+      "type":  "conceptual",
+      "question": "Which could be a cause to explain the sudden increase in pollution in the Rainforest Soil?",
+      "imageIndex": 3,
+      "imageThumbnailIndex": 3,
+      "correctAnswer": "Fertilizers are entering the rainforest as runoff.",
+      "answers": [
+        "Plants are producing too much fertilizers.",
+        "Fertilizers are entering the rainforest as runoff.",
+        "Organisms aren't decomposing the pesticides.",
+        "Pesticides aren't being consumed by animals."
+      ]
+    }
+  ]
+}

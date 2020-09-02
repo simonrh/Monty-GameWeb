@@ -1,0 +1,102 @@
+{
+  "paragraphs": [
+    {
+      "text": "All living organisms need energy to survive. Plants and animals use energy to grow, move, and breathe. However, plants and animals get their energy in different ways. Animals get energy by eating food. Plants use photosynthesis to make their own food and use this food for energy. ",
+      "highlights": [
+        1
+      ],
+      "thumbnails": []
+    },
+    {
+      "text": "Plants and animals use food to get energy. When animals eat food, their bodies digest the food. Digestion is the process of breaking down food into very small parts or nutrients. Animals' cells absorb or take in these nutrients to function. Glucose is a special nutrient that animals use for energy. Glucose is a type of sugar that can be broken down to release energy. The process of breaking down glucose to release energy is called respiration. Plants also use respiration to release energy from the glucose they produce during photosynthesis.",
+      "highlights": [],
+      "thumbnails": []
+    },
+    {
+      "text": "In addition to glucose, respiration also uses oxygen. Animals breathe to get oxygen from the air. Once they breathe in the air, animals absorb the oxygen and transport it to cells. Even water animals such as fish use their gills to absorb oxygen from the water. Plants get oxygen through small openings on their leaves and even produce oxygen during photosynthesis. Once animal and plant cells have glucose and oxygen, respiration can begin to release the energy they need.",
+      "highlights": [
+        5
+      ],
+      "thumbnails": [14]
+    },
+    {
+      "text": "When respiration releases the energy from glucose, it also produces carbon dioxide and water. Carbon dioxide and water are waste products that cells then need to get rid of. Animals are able to breathe out the carbon dioxide and excrete the water. Plants also release the excess carbon dioxide and water.",
+      "highlights": [
+        0
+      ],
+      "thumbnails": []
+    },
+    {
+      "text": "Respiration is an important process for all living organisms. It allows them to get the energy they need to survive.",
+      "highlights": [],
+      "thumbnails": []
+    }
+  ],
+  "summaries": {
+    "good": "Organisms get energy through respiration. Animals digest food and absorb nutrients like glucose. Animals use the products of photosynthesis, oxygen and glucose, in respiration. Energy is released and carbon dioxide and water are produced. Other bodily processes rely on this energy to occur.",
+    "middle": "Animals need energy from respiration to survive. They also need nutrients. Digestion allows animals to break down food into nutrients. One important nutrient is glucose. Plants produce glucose in photosynthesis. Animals cannot produce food, so they rely on plants. All organisms need energy to live.",
+    "bad": "Only animals go through respiration to get energy from food. Only plants go through photosynthesis to get energy. Animals get energy from water, and plants get energy from oxygen. Digestion helps all organisms absorb gases for bodily processes. Some organisms need energy more than others."
+  },
+  "quiz": [
+    {
+      "type": "declarative",
+      "question": "All plants and animals need ______ to grow, move, and breathe.",
+
+      "correctAnswer": "energy",
+      "answers": [
+        "oxygen",
+        "carbon dioxide",
+        "energy",
+        "nitrogen"
+      ]
+    },
+    {
+      "type": "declarative",
+      "question": "Which are needed for respiration?",
+
+      "correctAnswer": "Oxygen and glucose",
+      "answers": [
+        "Oxygen and glucose",
+        "Oxygen and water",
+        "Carbon dioxide and glucose",
+        "Carbon dioxide and water"
+      ]
+    },
+    {
+      "type": "conceptual",
+      "question": "Consumers get nutrients directly from ",
+
+      "correctAnswer": "their food.",
+      "answers": [
+        "the sun.",
+        "respiration.",
+        "their food.",
+        "photosynthesis."
+      ]
+    },
+    {
+      "type": "conceptual",
+      "question": "While playing outside, Danae caught a butterfly. She put the butterfly inside of a jar, gave it some food, and screwed the lid shut. Which of the following best describes why respiration won't occur?",
+
+      "correctAnswer": "There's not enough oxygen.",
+      "answers": [
+        "There's not enough oxygen.",
+        "There's not enough glucose.",
+        "There's not enough water.",
+        "There's not enough carbon dioxide."
+      ]
+    },
+    {
+      "type": "conceptual",
+      "question": "Cheryl is running around the track and is breathing heavily. She is releasing _________ when she breathes.",
+
+      "correctAnswer": "carbon dioxide",
+      "answers": [
+        "oxygen",
+        "carbon dioxide",
+        "photosynthesis",
+        "glucose"
+      ]
+    }
+  ]
+}

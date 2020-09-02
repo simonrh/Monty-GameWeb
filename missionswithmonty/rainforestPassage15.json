@@ -1,0 +1,86 @@
+{
+  "paragraphs": [
+    {
+      "text": "Photosynthesis is the process of making food using energy from the sun, water, and carbon dioxide. All plants go through photosynthesis. Respiration is the process of converting food to energy. All living organisms go through respiration. Without respiration, organisms would not have the energy they need to survive.",
+      "highlights": [0,2],
+      "thumbnails": [15]
+    },
+    {
+      "text": "Respiration and photosynthesis depend on each other. Respiration and photosynthesis recycle chemicals that the other process needs. Plants and animals exchange gases they need to survive. Plants release the oxygen animals need. Animals then release carbon dioxide which plants need. If animals stopped going through respiration the balance of gases in the air would begin to change. Plants would continue releasing oxygen, but they would eventually run out of carbon dioxide. This would cause the plants to die. Similarly, if plants stopped going through photosynthesis, the level of carbon dioxide in the air would increase. Eventually animals would not have oxygen to use for respiration. This would cause animals to die. When there is an imbalance of gases, living organisms will not have what they need to survive.",
+      "highlights": [1,11],
+      "thumbnails": []
+    },
+    {
+      "text": "Plants and animals rely on each other to survive. Animals rely on plants for food. Plants use energy from sunlight to make glucose. Glucose is the starting point for all food. Animals are not able to go through photosynthesis. Plants perform the life-sustaining process of photosynthesis. Without plants, all levels of a food web would run out of food and energy.",
+      "highlights": [],
+      "thumbnails": []
+    }
+  ],
+  "summaries": {
+    "good": "Photosynthesis and respiration make energy. These processes rely on each other. They recycle chemicals that the other process needs. If plants stopped going through photosynthesis and animals stopped going through respiration, organisms wouldn't survive.",
+    "middle": "Plants go through photosynthesis and animals go through respiration. These processes provide energy to organisms and produce chemicals for the environment. Organisms wouldn't survive without photosynthesis and respiration. For example, animals wouldn't have oxygen to breathe.",
+    "bad": "Photosynthesis is an important process. Plants produce the carbon dioxide and water that animals need. Without photosynthesis, animals wouldn't have carbon dioxide to breathe or water to drink. Animals produce oxygen and glucose through respiration, but photosynthesis is more important."
+  },
+  "quiz": [
+    {
+      "type":  "declarative",
+      "question": "Plants release _____________ that animals need.",
+
+      "correctAnswer": "oxygen",
+      "answers": [
+        "oxygen",
+        "carbon dioxide",
+        "water",
+        "nitrogen"
+      ]
+    },
+    {
+      "type":  "declarative",
+      "question": "Which of these processes rely on one another?",
+
+      "correctAnswer": "Respiration and photosynthesis",
+      "answers": [
+        "Photosynthesis and consumption",
+        "Respiration and photosynthesis",
+        "Photosynthesis and decomposition",
+        "Respiration and decomposition"
+      ]
+    },
+    {
+      "type":  "declarative",
+      "question": "What would happen if plants stopped going through photosynthesis?",
+
+      "correctAnswer": "Animals wouldn't receive enough oxygen.",
+      "answers": [
+        "Animals wouldn't receive enough oxygen.",
+        "Animals would receive too much nitrogen oxide.",
+        "Animals would produce far too much glucose.",
+        "Animals wouldn't receive enough carbon dioxide."
+      ]
+    },
+    {
+      "type":  "conceptual",
+      "question": "Which organism uses photosynthesis?",
+
+      "correctAnswer": "a producer.",
+      "answers": [
+        "a decomposer.",
+        "a producer.",
+        "an herbivore.",
+        "a carnivore."
+      ]
+    },
+    {
+      "type":  "conceptual",
+      "question": "Which is a consumer?",
+
+      "correctAnswer": "Dragonfly",
+      "answers": [
+        "Palm tree",
+        "Dragonfly",
+        "Blue algae",
+        "Prairie grass"
+      ]
+    }
+  ]
+}

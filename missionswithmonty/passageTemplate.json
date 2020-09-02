@@ -1,0 +1,34 @@
+{
+  "paragraphs": [
+    {
+      "text": "",
+      "highlights": [],
+      "thumbnails": []
+    },
+    {
+      "text": "",
+      "highlights": [],
+      "thumbnails": []
+    }
+  ],
+  "summaries": {
+    "good": "",
+    "middle": "",
+    "bad": ""
+  },
+  "quiz": [
+    {
+      "type": "",
+      "question": "",
+      "imageIndex": 0,
+      "imageThumbnailIndex": 0,
+      "correctAnswer": "correct answer.",
+      "answers": [
+        "correct answer.",
+        "another answer.",
+        "another answer.",
+        "another answer."
+      ]
+    }
+  ]
+}

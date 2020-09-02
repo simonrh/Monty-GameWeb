@@ -1,0 +1,92 @@
+{
+  "paragraphs": [{
+    "text": "Terrestrial animals live on land. Terrestrial animals live in many different habitats. A habitat is an environment where animals live and grow. One habitat in the tropical region is a savanna.",
+    "highlights": [0, 2],
+    "thumbnails": []
+  },
+    {
+      "text": "Savannas are large, open grasslands with very few trees. Like any ecosystem, savannas rely on both plants and animals to function. Many terrestrial animals live in savannas. Civets are a type of terrestrial animal that lives in savannas. Some civets find their food and shelter in the savanna. Other types of civets live in forests or mountain regions.",
+      "highlights": [0, 2],
+      "thumbnails": []
+    },
+    {
+      "text": "Habitats have many species. Species are groups of similar living things. Species rely on one another. Examples of various species of terrestrial animals are African civets, African bush elephants, and zebras.",
+      "highlights": [2],
+      "thumbnails": []
+    },
+    {
+      "text": "Terrestrial animals can be quite large. For example, the giraffe stretches over 15 feet tall. Others can be quite small. The driver ant is only one inch long. Terrestrial animals find various foods in their habitat. Giraffes eat plants for energy. Civets eat other animals and plants. Terrestrial animals also find shelter in their habitat. Civets are nocturnal and like to sleep during the day. Civets sleep in thick grass of the savanna because it protects them from predators while they sleep. At night, they go out to hunt.",
+      "highlights": [4, 7],
+      "thumbnails": [2]
+    },
+    {
+      "text": "Some terrestrial animals, like the rhinoceros, live alone. Colobus monkeys, however, prefer to live in groups. They live with 5 to 10 other monkeys. These monkeys work together in their habitat and help each other to find food and shelter. There are many different types of terrestrial animals that live around Wildlife University.",
+      "highlights": [],
+      "thumbnails": []
+    }
+  ],
+  "summaries": {
+    "good": "Terrestrial animals get their food and shelter from land. There are many species of terrestrial animals. They live in mountains, grasslands and forests.",
+    "middle": "Terrestrial animals live on land. They find food from their habitat, which can be savanna, forest, or mountains. Colobus monkeys live in groups of 5-10, but rhinoceroses live alone.",
+    "bad": "Terrestrial animals live on land. They get their food and shelter from the land. Terrestrial animals are usually huge. Terrestrial animals live in colonies."
+  },
+  "quiz": [{
+    "type": "declarative",
+    "question": "Which of the following is NOT true about savannas?",
+
+    "correctAnswer": "There are many trees and grass on a savanna.",
+    "answers": [
+      "A savanna is a habitat in the tropical region.",
+      "There are many trees and grass on a savanna.",
+      "A savanna has a lot of grass and few trees.",
+      "Many different kinds of animals live on a savanna."
+    ]
+  },
+    {
+      "type": "declarative",
+      "question": "Which of the following is true of Terrestrial animals?",
+
+      "correctAnswer": "They are only found on land.",
+      "answers": [
+        "They are only found in rainforests.",
+        "They are only found on land.",
+        "They are only found in and around water.",
+        "They are only found in savannas."
+      ]
+    }, {
+      "type": "conceptual",
+      "question": "A Golden Retriever, German shepherd, and Black Labrador are part of the same",
+
+      "correctAnswer": "species.",
+      "answers": [
+        "species.",
+        "breed.",
+        "population.",
+        "community."
+      ]
+    }, {
+      "type": "conceptual",
+      "question": "Civet is to savanna as ___________ is to tropical rainforest.",
+
+      "correctAnswer": "Poison dart frog",
+      "answers": [
+        "Poison dart frog",
+        "African elephant",
+        "Polar bear",
+        "White tailed deer"
+      ]
+    },
+    {
+      "type": "conceptual",
+      "question": "Which of the following is an example of a terrestrial animal?",
+
+      "correctAnswer": "Colobus Monkeys",
+      "answers": [
+        "Blue Whale",
+        "River Otter",
+        "Colobus Monkeys",
+        "Spotted eagle ray"
+      ]
+    }
+  ]
+}

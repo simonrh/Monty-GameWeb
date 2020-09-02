@@ -1,0 +1,82 @@
+{
+  "paragraphs": [{
+    "text": "Ecosystems are made of many elements including plants, animals, soil, and water. These elements can be labeled as either biotic factors or abiotic factors. Biotic factors are all the living things in an ecosystem. For example, grass and birds are biotic factors. Abiotic factors, on the other hand, are the non-living parts of an ecosystem. Sunlight and air are abiotic factors. All the elements of an ecosystem are either biotic or abiotic factors. Oceans and forests are great examples of ecosystems.",
+    "highlights": [2, 4],
+    "thumbnails": []
+  },
+    {
+      "text": "It is important to understand how biotic and abiotic factors impact each other. For example, temperature (abiotic) affects the type of plants (biotic) that grow. Also, the type of plants that grow in an ecosystem impact the animals that can live there. The temperature, plants, and animals all interact in the ecosystem. The study of interactions between biotic and abiotic factors is called ecology. Ecology explains how living organisms affect each other as well as their environment.",
+      "highlights": [4],
+      "thumbnails": []
+    },
+    {
+      "text": "Ecology has four levels of organization that start small and then get larger. Imagine walking through the forest and a bird flies to a tree. That bird is called an organism. Now, imagine 6 more birds fly over and land on the tree. Now there are 7 birds living in the tree together. This is called a population. A population is a group of the same kind of organisms living together. Upon closer inspection, there are also many ants living in the tree. The ants and birds living together are called a community. A community is all of the different populations living together. Suddenly the sunlight is shining on the tree and the temperature is warm. These abiotic factors impact the community. An ecosystem is made of all biotic (birds, ants, tree) and abiotic (sunlight, temperature) factors interacting with each other.",
+      "highlights": [0, 12],
+      "thumbnails": [17]
+    }
+  ],
+  "summaries": {
+    "good": "Ecology explains relationships among living organisms and their environment. Four levels of ecology include organisms, populations, communities, and ecosystems. Ecosystems include biotic, living things, and abiotic, or non-living things that influence life in an environment. Organisms cooperate, compete, or depend upon one another for survival.",
+    "middle": "All living organisms rely on one another for survival. Organisms compete and sometimes harm each other, like parasites. Ecology explains relationships among living organisms and their environment. Ecosystems include non-living things as well as living things. Ecology includes organisms, populations, communities, and ecosystems.",
+    "bad": "Ecology includes how organisms, populations, communities, and ecosystems relate to each other. Organisms include animals and other living things. Herds are populations of organisms. Some animals live in communities and some compete with each other. Some organisms hurt each other. Organisms fight for survival."
+  },
+  "quiz": [{
+    "type": "declarative",
+    "question": "Which of the following is the study of interactions between organisms and their environment?",
+
+    "correctAnswer": "Ecology",
+    "answers": [
+      "Ecology",
+      "Symbiosis",
+      "Ecosystem",
+      "Competition"
+    ]
+  },
+    {
+      "type": "declarative",
+      "question": "Which shows levels of organisms in an ecology from smallest to largest?",
+
+      "correctAnswer": "Organism -> Population -> Community -> Ecosystem",
+      "answers": [
+        "Population -> Organism -> Ecosystem -> Community",
+        "Community -> Population -> Organism -> Ecosystem",
+        "Organism -> Population -> Community -> Ecosystem",
+        "Organism -> Community -> Population -> Ecosystem"
+      ]
+    }, {
+      "type": "declarative",
+      "question": "Which one of the four levels of an ecology means a group of the same organisms living in the same place?",
+
+      "correctAnswer": "Population",
+      "answers": [
+        "Community",
+        "Population",
+        "Ecosystem",
+        "Organism"
+      ]
+    }, {
+      "type": "conceptual",
+      "question": "Which of the following is most like a community?",
+
+      "correctAnswer": "All of the students, teachers, and administrators in a school",
+      "answers": [
+        "All of the fifth graders in the same school",
+        "All of the students, teachers, and administrators in a school",
+        "All of the students, supplies, and desks in a classroom",
+        "All of the students in the same school"
+      ]
+    },
+    {
+      "type": "conceptual",
+      "question": "Which of the following is a population in a lake ecosystem?",
+
+      "correctAnswer": "A flock of geese",
+      "answers": [
+        "A flock of geese",
+        "Geese and ducks",
+        "Geese, ducks, and fish",
+        "Geese, ducks, fish, and water lilies"
+      ]
+    }
+  ]
+}

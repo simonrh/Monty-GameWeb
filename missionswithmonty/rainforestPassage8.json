@@ -1,0 +1,94 @@
+{
+  "paragraphs": [
+    {
+      "text": "In a healthy ecosystem, plants and animals interact with each other in balance with the environment. Producers use sunlight, carbon dioxide, and water to make their own food. Consumers eat producers and other consumers for energy. Decomposers break down dead matter into nutrients. These nutrients are then recycled into the soil.",
+      "highlights": [0],
+      "thumbnails": []
+    },
+    {
+      "text": "Organisms in an ecosystem are interdependent. Interdependence means organisms rely on each other. Food webs are a good way to show this interdependence. Changes in ecosystems can cause imbalance. This can cause animals to move to a new ecosystem to find food, clean water, or shelter.",
+      "highlights": [1],
+      "thumbnails": [6]
+    },
+    {
+      "text": "One reason animals may have to leave an ecosystem is a changing climate. If the average temperature rises over time, it can impact the types of plants that grow in a region. Consumers that rely on these plants are also impacted. If these consumers can no longer find the plants they used to eat, they are forced to look for food in new regions.  ",
+      "highlights": [0],
+      "thumbnails": []
+    },
+    {
+      "text": "Another common reason for animals to move is pollution. Pollution can hurt organisms and force them to leave an ecosystem in order to survive. Pollution can occur in the air, land, or water. Pollutants can also move among the air, land, and water. Air pollutants can enter raindrops, causing acid rain, before falling to the ground and then enter water sources and soil. Plants may die when they absorb these pollutants. Animals may get sick from eating these polluted plants. Animals and plants are also harmed by polluted water or polluted air.",
+      "highlights": [1],
+      "thumbnails": []
+    },
+    {
+      "text": "When ecosystems are disrupted, organisms are forced to move or face the risk of dying. For example, if the Acacia trees in this food web were to die because of climate change or pollution, the impala would not have food to eat. The impalas would have to move to another region or risk dying. When organisms move to a new healthier ecosystem they can cause overcrowding. This can lead to organisms competing with each other for food, water, and shelter to survive. Overcrowding can also change the balance of an ecosystem.",
+      "highlights": [0],
+      "thumbnails": []
+    }
+  ],
+  "summaries": {
+    "good": "In a healthy ecosystem, plants and animals interact in balance with each other and with the environment. Changes in climate and pollution can affect this balance. Some organisms may have to move to a new ecosystem or risk dying.",
+    "middle": "Climate change affects the balance in a healthy ecosystem. When the temperature increases over a long period of time, plants growing in a region are impacted. This affects consumers relying on these plants. Consumers will then have to find a new ecosystem or die.",
+    "bad": "For an ecosystem to be healthy, plants and animals are interdependent. Any change in the environment does not affect this interdependence easily. Unhealthy ecosystems are caused when plants absorb acid rain from the soil making them toxic. Consumers that eat these toxic plants die."
+  },
+  "quiz": [
+    {
+      "type": "declarative",
+      "question": "Interdependence means that organisms",
+      "correctAnswer": "rely on each other to live.",
+      "answers": [
+        "live on their own individually.",
+        "live in groups independently.",
+        "rely on each other to live.",
+        "cannot live without food."
+
+      ]
+    },
+    {
+      "type": "declarative",
+      "question": "A food web can show how organisms interact in an ecosystem. Food webs show",
+      "correctAnswer": "interdependence.",
+      "answers": [
+        "interdependence.",
+        "disruption.",
+        "pollution.",
+        "overcrowding."
+      ]
+    },
+    {
+      "type": "conceptual",
+      "question": "What would happen if the aquatic plants and algae died from water pollution or climate change?",
+      "imageIndex": 2,
+      "imageThumbnailIndex": 2,
+      "correctAnswer": "Most of the organisms in the food chain would be at risk for survival.",
+      "answers": [
+        "Frogs, big fish, and sparrows wouldn't have to compete for small fish and snails.",
+        "Terrestrial and salt marsh plants would become the top predator.",
+        "Most of the organisms in the food chain would be at risk for survival.",
+        "All of the organisms would adapt to the change and survive without problems."
+      ]
+    },
+    {
+      "type": "conceptual",
+      "question": "Which is an analogy to a healthy ecosystem? ",
+      "correctAnswer": "In Mr. Klenk's classroom, he can rely on his students to complete their assigned jobs.",
+      "answers": [
+        "In Mr. Klenk's classroom, he can rely on his students to complete their assigned jobs.",
+        "Emily doesn't help her brother Charles with the chores, so he has to do more work.",
+        "There aren't enough gaming systems at the toy store for the number of kids who want one.",
+        "Miss Jessie must move to a new town, because there aren't enough jobs where she lives."
+      ]
+    },
+    {
+      "type": "conceptual",
+      "question": "Which is NOT true when an ecosystem is disrupted?",
+      "correctAnswer": "Consumers are less affected than producers.",
+      "answers": [
+        "Consumers are less affected than producers.",
+        "Overcrowding can result when organisms move.",
+        "Competition among organisms can increase.",
+        "Organisms may risk sickness and death."
+      ]
+    }
+  ]
+}

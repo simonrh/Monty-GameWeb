@@ -1,0 +1,15 @@
+{
+    "factors": [{
+        "id": "",
+        "imageFile": "",
+        "thumbnailFile": "",
+        "description": "",
+        "isBiotic": false,
+        "isBackground": false
+    }],
+    "answers": {
+        "background": "",
+        "abiotic": ["answer1id", "answer2id", "answer3id"],
+        "biotic": ["answer1id", "answer2id", "answer3id", "answer4id", "answer5id", "answer6id", "answer7id"]
+    }
+}

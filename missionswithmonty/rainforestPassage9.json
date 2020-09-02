@@ -1,0 +1,108 @@
+{
+  "paragraphs": [
+    {
+      "text": "All living organisms need water to survive. Oceans, rivers, lakes, and even streams, support living organisms. Wildlife University is located near a river. Plants like ferns and grasses grow along the banks of rivers. Animals from small fish to hippopotamuses swim in the river water. Land animals also rely on river water. For example, warthogs and elephants come to rivers to drink and swim.",
+      "highlights": [
+        0,
+        1
+      ],
+      "thumbnails": []
+    },
+    {
+      "text": "Water pollution happens when dangerous substances enter water sources. These dangerous substances are called pollutants. Pollutants come from many different places. Some pollutants come from factories that release chemicals into bodies of water. They can also come from homes that let their trash or waste run into the water. Water pollution hurts organisms that use the water.",
+      "highlights": [
+        0,
+        5
+      ],
+      "thumbnails": []
+    },
+    {
+      "text": "Sometimes chemicals or trash are dumped into the water on purpose. Pollutants can also enter the water accidentally. For example, farmers often use pesticides on the plants they grow. Pesticides are chemicals that prevent pests like insects or rodents from eating plants. When it rains, pesticides on plants are washed off and mixed with the rain. This drains into the soil. Runoff is the extra water in the soil that drains into nearby bodies of water, like streams and rivers. Runoff from farms can contain pesticides and other dangerous chemicals. Animal waste is another pollutant that becomes part of runoff and enters water sources. Polluted runoff is harmful to organisms that live in water and depend on water for survival.",
+      "highlights": [
+        9
+      ],
+      "thumbnails": [7]
+    },
+    {
+      "text": "Polluted water sources affect plants. Some water pollutants are toxic to plants. When pollutants are absorbed through their roots, the plants can die. Water pollution is also dangerous to animals. Animals can die if they drink polluted water, eat polluted plants, or swim in polluted water. A good example is plastic found in water bodies. Aquatic animals can die if they swallow plastic. These days, plastic particles are found even in the deepest parts of the oceans. ",
+      "highlights": [
+        4
+      ],
+      "thumbnails": []
+    },
+    {
+      "text": "All organisms, including humans, need clean freshwater to survive. Keeping water free of pollutants is very important for healthy ecosystems.",
+      "highlights": [
+        1
+      ],
+      "thumbnails": []
+    }
+  ],
+  "summaries": {
+    "good": "All living organisms need water to survive. Water pollution happens when dangerous substances come into the water. Pollution can be caused either by accident or on purpose. When water is polluted, plants and animals can get sick or die.",
+    "middle": "All living organisms need water to survive. Plants and animals all rely on water. Farmers' use of pesticides can cause water pollution. This is because the pesticides will flow to the soil and other areas of water with rain.",
+    "bad": "Some animals need water to survive. When water gets polluted, those animals that live in or near the water will die because they will eat the pollutants. The pollutants are very dangerous substances that kill animals."
+  },
+  "quiz": [
+    {
+      "type": "declarative",
+      "question": "Chemicals that prevent insects from eating plants are",
+
+      "correctAnswer": "pesticides.",
+      "answers": [
+        "ecosystems.",
+        "herbivores.",
+        "pesticides.",
+        "nutrients."
+      ]
+    },
+    {
+      "type": "declarative",
+      "question": "Which is the extra water in the soil that drains into nearby bodies of water?",
+
+      "correctAnswer": "Runoff",
+      "answers": [
+        "Flood",
+        "Runoff",
+        "Rainfall",
+        "Acid rain"
+      ]
+    },
+    {
+      "type": "conceptual",
+      "question": "Choose the substance that does not pollute the water.",
+
+      "correctAnswer": "Rain",
+      "answers": [
+        "Fertilizer",
+        "Industrial waste",
+        "Rain",
+        "Pesticides"
+      ]
+    },
+    {
+      "type": "conceptual",
+      "question": "Ray washes his car every Sunday afternoon in the street. After scrubbing his car, he sprays the soap off with a hose. The soapy water travels down the street and falls into a drain. The soapy water mixes with other water and is released into a nearby stream. In this example, the soap is a",
+
+      "correctAnswer": "pollutant.",
+      "answers": [
+        "runoff.",
+        "pollutant.",
+        "pesticide.",
+        "nutrient."
+      ]
+    },
+    {
+      "type": "conceptual",
+      "question": "The dishwasher at your home was broken and it leaked on the floor. The leaked liquid then ran out of your house. There is a river near your house. Why will the leaked water be a problem?",
+
+      "correctAnswer": "It includes dishwashing detergent, which can pollute the river.",
+      "answers": [
+        "It includes detergent, which has too many nutrients for the animals.",
+        "It will increase the level of river water, which can cause a flood.",
+        "It includes dishwashing detergent, which can pollute the river.",
+        "It has nutrients for the water plants and nothing for the water animals."
+      ]
+    }
+  ]
+}

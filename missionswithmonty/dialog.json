@@ -1,0 +1,140 @@
+{
+  "stefan_rf_leader": [
+    "Welcome to our rainforest research center!",
+    "I am Stefan, a crowned eagle. We crowned eagles are one of the most dominant winged creatures in Africa.",
+    "Although my home is here in the rainforest we can live in many different environments including the savanna.",
+    "I am happy to hear of your quest to help save Wildlife University!",
+    "Monty is a good friend of mine and I am so sad that he is now missing.",
+    "He had a brilliant idea to create the University for wildlife of all types...",
+    "...to improve their understanding of science and to live in harmony with human societies.",
+    "Now it's time for you to develop your own knowledge of science to help us during this crisis.",
+    "I am going to send you out to meet with our researchers here in the rainforest.",
+    "They will challenge you to learn all you can about their work.",
+    "Once you have succeeded, you will come back to me.",
+    "I will then give you one final test to see if you are ready to move on to your other missions.",
+    "Best wishes on your first mission!"
+  ],
+  "birds_rf_summary": [
+    "My summary is right and you know it.",
+    "But mine is so much better!",
+    "You two don't know what you're talking about!",
+    "Cici! Which summary do you think is the best?"
+  ],
+  "cici_rf_summary": [
+    "Don't worry everyone, our friend is here!\nCan you pick the summary that best reflects the passage?"
+  ],
+  "cici_rf_summary_correct": [
+    "Nice work! That's the best summary. Thanks for helping out around here."
+  ],
+  "cici_rf_summary_retry": [
+    "Hmmm, I think there might be a better answer. Please try again."
+  ],
+  "bird1_rf_env_intro": [
+    "That's a passage! Click on it to begin!"
+  ],
+  "bird1_rf_env_canopy": [
+    "That's the canopy! It's an upper level of the rainforest.",
+    "It's inhabited by birds, monkeys, and many other animals."
+  ],
+  "bird1_rf_env_eggs": [
+    "Civets are omnivores.",
+    "This means they eat both plants and animals.",
+    "This includes fruit, vegetation, eggs and other animals."
+  ],
+  "bird2_rf_env_broadleaf": [
+    "Broad leaves are found in tropical rainforests!"
+  ],
+  "cici_rf_final": [
+    "Yawnnnn! Look at that! The sun is up. Thanks so much for all your help!",
+    "Looks like you've got quite the journey ahead of you! See you around!"
+  ],
+  "cici_rf_quiz_end": [
+    "You've answered every question! Once you feel confident in your answers go ahead and click continue."
+  ],
+  "cici_highlight_retry": [
+    "I'd like to retry."
+  ],
+  "cici_highlight_skip": [
+    "I'd like to skip to the end."
+  ],
+  "cici_rf_env_final_day_1": [
+    "Now that you have completed my other challenges, I have one last task for you!",
+    "I would like you to create your own tropical rainforest scene."
+  ],
+  "cici_rf_env_final_day_2": [
+    "Ok, now it's time for the day's Moment of Truth!"
+  ],
+  "cici_rf_env_final_day_3": [
+    "Ok, now it's time for the day's Moment of Truth!"
+  ],
+  "cici_rf_env_final_day_4": [
+    "Ok, now it's time for the day's Moment of Truth!"
+  ],
+  "cici_multisource_results": [
+    "Here are your results."
+  ],
+  "cici_badging_results": [
+    "Looks like you've got quite the journey ahead of you! See you around!"
+  ],
+  "leader_monitor_feedback_red_overconfident": [
+    "Yikes! It looks like you are very overconfident on this one."
+  ],
+  "leader_monitor_feedback_yellow_overconfident": [
+    "Hmm... You were somewhat overconfident on this one."
+  ],
+  "leader_monitor_feedback_green": [
+    "Nice job! You made an accurate judgment on this one!"
+  ],
+  "leader_monitor_feedback_yellow_underconfident": [
+    "Let's see... You were somewhat underconfident on this one."
+  ],
+  "leader_monitor_feedback_red_underconfident": [
+    "Uh oh! It looks like you were very underconfident on this one."
+  ],
+  "cici_day_transition_1": [
+    "Nice work on your mission so far!",
+    "*Yawn* Looks like the sun is coming up. It's time for me to get some sleep! In the meantime, please continue on your journey. Click \"next stop\""
+  ],
+  "cici_day_transition_2": [
+    "*Yawn* Looks like it's bed-time. Continue on and I'll see you soon! Click \"next stop\""
+  ],
+  "cici_day_transition_3": [
+    "OK, time for you to meet some more researchers in Wildlife University. Click \"next stop\""
+  ],
+  "cici_rf_env_intro_day_2": [
+    "Welcome back! I hope you're ready for your second day of challenges in the rainforest!",
+    "Please look around. I've got a lot more research to show you!",
+    "Be on the lookout for new issues of the Wildlife Times newspapers as they show up."
+  ],
+  "cici_rf_env_intro_day_3": [
+    "Oh hey, it's you again! I hope you learned a lot on your journey with the other researchers!",
+    "I've gathered some new research. Please take a look at it!",
+    "Keep up with all the latest news in Wildlife Times!"
+  ],
+  "cici_rf_env_intro_day_4": [
+    "Looks like you're ready for the last day in Wildlife University.",
+    "Make sure to gather the most important information...",
+    "...to help you figure out why so many animals are getting sick around Wildlife University.",
+    "Don't forget to read all the latest news!"
+  ],
+  "stefan_rf_leader_detective": [
+    "Now that you've finished your mission it's time to give us your best hypothesis.",
+    "Why are so many animals getting sick?",
+    "Piece together the important information from your journey through the rainforest, savanna, and ocean.",
+    "Then, submit it on your detective board."
+  ],
+  "stefan_rf_leader_suspect": [
+    "While all of our experts are reviewing your evidence, I have another task for you.",
+    "It’s time to figure out who took Monty!"
+  ],
+  "stefan_rf_leader_prompt": [
+    "Thanks for taking on this challenge to help us here at Wildlife University.",
+    "Here you can see what our other researchers found out about what was causing the illnesses and also who took Monty.",
+    "Before you go, we have had a developing situation in the Savanna region near Wildlife University.",
+    "We can use your help!"
+  ],
+  "stefan_rf_leader_final": [
+    "Thanks for all your efforts in making life better here at Wildlife University.",
+    "Monty is looking forward to you joining him on his next adventure!"
+  ]
+}

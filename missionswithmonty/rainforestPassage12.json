@@ -1,0 +1,107 @@
+{
+  "paragraphs": [
+    {
+      "text": "Plants are producers in food webs. Plants are able to use energy from sunlight to make glucose. Animals cannot do this, so they rely on plants to capture sunlight's energy. Animals then eat plants to get energy. Photosynthesis, or the process of making glucose in plants, is required for all living things on earth to survive. But plants need more than just sunlight. Plants also need nutrients. Nutrients are substances that are very important for living organisms to grow, develop, and function properly.",
+      "highlights": [
+        7
+      ],
+      "thumbnails": []
+    },
+    {
+      "text": "In order to go through photosynthesis, plants need sunlight, carbon dioxide, and water. Plants absorb water through their roots in the ground and carbon dioxide from the air. But plants need some more nutrients to grow.",
+      "highlights": [],
+      "thumbnails": []
+    },
+    {
+      "text": "One such nutrient plants need to grow is nitrogen. Nitrogen is an element that is all over the Earth. Nitrogen in the soil mixes with water. Plants then absorb the nitrogen when they absorb water. Plants use nitrogen to grow healthy leaves. Nitrogen is part of chlorophyll, the green chemical inside of plants that absorbs energy from sunlight. Without nitrogen, plants would not be able to survive. In fact, all living organisms need nitrogen. Another nutrient that plants need is phosphorus. Phosphorus is also an element that plants absorb through their roots. Phosphorus is necessary for plants to grow roots and seeds.",
+      "highlights": [
+        0,
+        7,
+        9
+      ],
+      "thumbnails": []
+    },
+    {
+      "text": "Normally, dead plants and animals are decomposed, which causes nitrogen and phosphorus in the soil to be recycled. But if farmers plant crops too often, the nutrients can be used up. So, the soil lacks these essential nutrients, making plants unhealthy. As a result, they do not produce healthy fruits or vegetables. Farmers can add fertilizers to the soil to help plants grow. Fertilizers have lots of nitrogen and phosphorus. Plants can then absorb these nutrients.",
+      "highlights": [
+        0,
+        5
+      ],
+      "thumbnails": []
+    },
+    {
+      "text": "In order for plants to grow and develop they need several important nutrients. Plants get the nutrients they need through the soil, water, and air. Plants rely on us to keep the environment clean.",
+      "highlights": [
+        1
+      ],
+      "thumbnails": [12]
+    }
+  ],
+  "summaries": {
+    "good": "Photosynthesis transforms light energy into chemical energy for plants to use. Plants and animals rely on photosynthesis for energy. Humans and animals breathe oxygen produced by photosynthesis.",
+    "middle": "Plants rely on photosynthesis to make their energy from the sun. It requires nutrients, carbon dioxide, sunlight, and water. Chloroplasts and chlorophyll make photosynthesis happen. It gives off oxygen.",
+    "bad": "Photosynthesis produces carbon dioxide, which plants use for energy. Plants and animals require oxygen to produce their energy, but humans and animals can also eat other organisms for energy. Photosynthesis is necessary for all life."
+  },
+  "quiz": [
+    {
+      "type": "declarative",
+      "question": "Plants",
+
+      "correctAnswer": "need nutrients to grow and develop.",
+      "answers": [
+        "filter out harmful nutrients.",
+        "only need sunlight to survive.",
+        "need nutrients to grow and develop.",
+        "produce nitrogen through photosynthesis."
+      ]
+    },
+    {
+      "type": "declarative",
+      "question": "What can farmers add to the soil to help plants grow and develop?",
+
+      "correctAnswer": "Fertilizers",
+      "answers": [
+        "Pesticides",
+        "Algae",
+        "Acid",
+        "Fertilizers"
+      ]
+    },
+    {
+      "type": "declarative",
+      "question": "Which of the following has a lot of nitrogen and phosphorus?",
+
+      "correctAnswer": "Fertilizers",
+      "answers": [
+        "Pesticides",
+        "Fertilizers",
+        "Acid rain",
+        "Nitrogen gas"
+      ]
+    },
+    {
+      "type": "conceptual",
+      "question": "Robbie learned that a pollutant has recently killed a lot of the decomposers in the woods behind his house. How will this affect the plants in the woods? ",
+
+      "correctAnswer": "Plants will not receive enough nutrients.",
+      "answers": [
+        "Plants will grow healthier leaves.",
+        "Plants will grow more complete root structures.",
+        "Plants will not receive enough sunlight.",
+        "Plants will not receive enough nutrients."
+      ]
+    },
+    {
+      "type": "conceptual",
+      "question": "Leon is conducting an experiment. He wants to see what will happen to his tomato plant if the soil has little nitrogen. Which of the following best describes what Leon will discover?",
+
+      "correctAnswer": "The tomato plant will get sick and likely die.",
+      "answers": [
+        "The tomato plant will get sick and likely die.",
+        "The tomato plant will have healthy green leaves.",
+        "The tomato plant will grow too many roots.",
+        "The tomato plant will produce too much glucose."
+      ]
+    }
+  ]
+}

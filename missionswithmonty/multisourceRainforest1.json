@@ -1,0 +1,312 @@
+{
+    "factors": [{
+            "id": "ant",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail00.png",
+            "description": "ant",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "arctic",
+            "imageFile": "img_rf_multisource_image01.png",
+            "thumbnailFile": "img_rf_multisource_thumbnail01.png",
+            "description": "arctic",
+            "isBiotic": true,
+            "isBackground": true
+        },
+        {
+            "id": "bananatree",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail02.png",
+            "description": "banana tree",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "boaconstrictor",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail03.png",
+            "description": "boa constrictor",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "cactus",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail04.png",
+            "description": "cactus",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "centipede",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail05.png",
+            "description": "centipede",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "chameleon",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail06.png",
+            "description": "chameleon",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "chimpanzee",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail07.png",
+            "description": "chimpanzee",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "coolaveragetemp",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail08.png",
+            "description": "cool average temperature",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "crab",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail09.png",
+            "description": "crab",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "desert",
+            "imageFile": "img_rf_multisource_image10.png",
+            "thumbnailFile": "img_rf_multisource_thumbnail10.png",
+            "description": "desert",
+            "isBiotic": true,
+            "isBackground": true
+        },
+        {
+            "id": "earthworm",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail11.png",
+            "description": "earthworm",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "ferns",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail12.png",
+            "description": "ferns",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "fox",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail13.png",
+            "description": "fox",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "gorilla",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail14.png",
+            "description": "gorilla",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "leaflitter",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail15.png",
+            "description": "leaf litter",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "leopard",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail16.png",
+            "description": "leopard",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "lion",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail17.png",
+            "description": "lion",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "macaw",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail18.png",
+            "description": "macaw",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "mushroom",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail19.png",
+            "description": "mushroom",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "oaktree",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail20.png",
+            "description": "oak tree",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "ocean",
+            "imageFile": "img_rf_multisource_image21.png",
+            "thumbnailFile": "img_rf_multisource_thumbnail21.png",
+            "description": "ocean",
+            "isBiotic": true,
+            "isBackground": true
+        },
+        {
+            "id": "penguin",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail22.png",
+            "description": "penguin",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "pinetree",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail23.png",
+            "description": "pine tree",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "poisondartfrog",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail24.png",
+            "description": "poison dart frog",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "polarbear",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail25.png",
+            "description": "polar bear",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "pond",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail26.png",
+            "description": "pond",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "rain",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail27.png",
+            "description": "rain",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "rainforest",
+            "imageFile": "img_rf_multisource_image28.png",
+            "thumbnailFile": "img_rf_multisource_thumbnail28.png",
+            "description": "rainforest",
+            "isBiotic": true,
+            "isBackground": true
+        },
+        {
+            "id": "sand",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail29.png",
+            "description": "sand",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "savanna",
+            "imageFile": "img_rf_multisource_image30.png",
+            "thumbnailFile": "img_rf_multisource_thumbnail30.png",
+            "description": "savanna",
+            "isBiotic": true,
+            "isBackground": true
+        },
+        {
+            "id": "scorpion",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail31.png",
+            "description": "scorpion",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "snow",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail32.png",
+            "description": "snow",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "sunflower",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail33.png",
+            "description": "sunflower",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "tallgrass",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail34.png",
+            "description": "tall grass",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "threetoedsloth",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail35.png",
+            "description": "three toed sloth",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "vines",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail36.png",
+            "description": "vines",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "warmaveragetemp",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail37.png",
+            "description": "warm average temperature",
+            "isBiotic": false,
+            "isBackground": false
+        }
+    ],
+    "answers": {
+        "background": "rainforest",
+        "abiotic": ["rain", "warmaveragetemp", "pond", "leaflitter"],
+        "biotic": ["poisondartfrog", "vines", "threetoedsloth", "gorilla", "centipede", "ant", "boaconstrictor", "chameleon", "leopard", "mushroom", "earthworm", "bananatree", "chimpanzee", "ferns"]
+    }
+}

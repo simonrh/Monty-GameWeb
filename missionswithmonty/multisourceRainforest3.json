@@ -1,0 +1,216 @@
+{
+    "factors": [{
+            "id": "crops",
+            "imageFile": "img_rf_multisource_image67.png",
+            "thumbnailFile": "img_rf_multisource_thumbnail67.png",
+            "description": "crops",
+            "isBiotic": false,
+            "isBackground": true
+        },
+        {
+            "id": "grandcanyon",
+            "imageFile": "img_rf_multisource_image68.png",
+            "thumbnailFile": "img_rf_multisource_thumbnail68.png",
+            "description": "grand canyon",
+            "isBiotic": false,
+            "isBackground": true
+        },
+        {
+            "id": "onions",
+            "imageFile": "img_rf_multisource_image69.png",
+            "thumbnailFile": "img_rf_multisource_thumbnail69.png",
+            "description": "onions",
+            "isBiotic": false,
+            "isBackground": true
+        },
+        {
+            "id": "potatoes",
+            "imageFile": "img_rf_multisource_image70.png",
+            "thumbnailFile": "img_rf_multisource_thumbnail70.png",
+            "description": "potatoes",
+            "isBiotic": false,
+            "isBackground": true
+        },
+        {
+            "id": "acidrain",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail71.png",
+            "description": "acid rain",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "baldeagle",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail72.png",
+            "description": "bald eagle",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "bear",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail73.png",
+            "description": "bear",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "coralreef",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail74.png",
+            "description": "coralreef",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "crab",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail75.png",
+            "description": "crab",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "deer",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail76.png",
+            "description": "deer",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "duck",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail77.png",
+            "description": "duck",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "fern",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail78.png",
+            "description": "fern",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "frog",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail79.png",
+            "description": "frog",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "glucose",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail80.png",
+            "description": "glucose",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "grass",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail81.png",
+            "description": "grass",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "jellyfish",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail82.png",
+            "description": "jellyfish",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "koalabear",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail83.png",
+            "description": "koala bear",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "nitrogen",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail84.png",
+            "description": "nitrogen",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "pesticides",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail85.png",
+            "description": "pesticides",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "phosphorus",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail86.png",
+            "description": "phosphorus",
+            "isBiotic": false,
+            "isBackground": false
+        },
+        {
+            "id": "rabbit",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail87.png",
+            "description": "rabbit",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "runoff",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail88.png",
+            "description": "runoff",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "seaturtle",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail89.png",
+            "description": "sea turtle",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "starfish",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail90.png",
+            "description": "starfish",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "tree",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail91.png",
+            "description": "tree",
+            "isBiotic": true,
+            "isBackground": false
+        },
+        {
+            "id": "worm",
+            "imageFile": "",
+            "thumbnailFile": "img_rf_multisource_thumbnail92.png",
+            "description": "worm",
+            "isBiotic": true,
+            "isBackground": false
+        }
+    ],
+    "answers": {
+        "background": "grandcanyon",
+        "abiotic": ["nitrogen", "phosphorus"],
+        "biotic": ["bear", "deer", "fern", "grass", "koalabear", "rabbit", "tree", "worm"]
+    }
+}

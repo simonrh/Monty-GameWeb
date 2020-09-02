@@ -1,0 +1,92 @@
+{
+  "paragraphs": [{
+    "text": "There are many different types of aquatic organisms that live around Wildlife University. Aquatic animals live in water for most or all of their lives. Aquatic animals have adaptations that help them survive in water. Adaptations help organisms survive in their environment. For example, some aquatic animals can breathe in the water. Other aquatic animals come to the surface of the water to breathe. These animals can hold their breath for a long time.",
+    "highlights": [2],
+    "thumbnails": [1]
+  },
+    {
+      "text": "Sharks are aquatic animals because they live in the water. Sharks can grow to many different sizes. Some sharks are so small they could fit in a fish tank. These sharks eat food as small as plankton. On the other hand, the whale shark can grow as long as 60 ft. This is longer than a bus. Some large sharks eat other animals as big as sea lions. These sharks are at the top of the ocean food chain.",
+      "highlights": [],
+      "thumbnails": []
+    },
+    {
+      "text": "The spotted eagle ray also lives in the water. The spotted eagle ray lives closer to the land near coral reefs. A coral reef is an area of rock, coral, and many different animals and sea plants. Coral reefs are found by the shore. They exist in tropical or warm places. Eagle rays swim in warmer water near the shore.",
+      "highlights": [],
+      "thumbnails": []
+    },
+    {
+      "text": "Spotted-necked otters live in and around freshwater lakes and rivers. They mainly eat fish. They also eat frogs and crustaceans, like crayfish. These otters build their dens with plants found along the banks of the water. Otters also protect themselves from predators by hiding in these plants. Predators are animals that eat other animals,which are called prey.",
+      "highlights": [5],
+      "thumbnails": []
+    },
+    {
+      "text": "There are also animals that live near the water and depend on aquatic animals for food but are not aquatic and don't swim. An example is the Pel's Fishing Owl. The Pel's Fishing Owl lives around lakes and rivers. These owls mainly eat fish. They also eat frogs, mussels, and some crabs. Pel's Fishing Owls are nocturnal. Nocturnal animals stay awake during the night and sleep during the day.",
+      "highlights": [0],
+      "thumbnails": []
+    }
+  ],
+  "summaries": {
+    "good": "Aquatic animals make the water habitat their home. They live in or near the water and have adaptations that help them to survive.",
+    "middle": "Aquatic animals live in the water. They are both big and small animals. Some are as big as a bus.",
+    "bad": "All aquatic animals live in the water to survive."
+  },
+  "quiz": [{
+    "type": "declarative",
+    "question": "Aquatic animals",
+
+    "correctAnswer": "have adaptations to survive in water.",
+    "answers": [
+      "live and grow only in freshwater.",
+      "live and grow only in saltwater.",
+      "have adaptations to survive in water.",
+      "are found only in temperate rainforests."
+    ]
+  },
+    {
+      "type": "declarative",
+      "question": "The spotted-necked otter spends much of its day swimming in the lake, where it finds its food. When it catches something, it takes it back to its den on shore, where it sleeps and raises young. Which of the following is true?",
+
+      "correctAnswer": "Spotted-necked otters are aquatic because they live around the water.",
+      "answers": [
+        "Spotted-necked otters are not aquatic because they do not live in the water.",
+        "Spotted-necked otters are not aquatic because they need to breathe air.",
+        "Spotted-necked otters are aquatic because they live around the water.",
+        "Spotted-necked otters are aquatic because they get their food from the water."
+      ]
+    }, {
+      "type": "declarative",
+      "question": "Identify which characteristic does NOT apply to coral reefs:",
+
+      "correctAnswer": "They are deep in the ocean.",
+      "answers": [
+        "They are rocky.",
+        "They are deep in the ocean.",
+        "They are in warm water.",
+        "They support many animals and plants."
+      ]
+    }, {
+      "type": "conceptual",
+      "question": "In the ocean, mussels, and shellfish are eaten by starfish. Starfish are:",
+
+      "correctAnswer": "predators.",
+      "answers": [
+        "producers.",
+        "prey.",
+        "terrestrial.",
+        "predators."
+      ]
+    },
+    {
+      "type": "conceptual",
+      "question": "Which of the following is NOT an example of an aquatic animal?",
+
+      "correctAnswer": "A Monkey that lives in the rainforest canopy.",
+      "answers": [
+        "A fish that swims in freshwater rivers.",
+        "A Monkey that lives in the rainforest canopy.",
+        "A beaver that swims in the water and makes dams.",
+        "A turtle who lives near the water and fishes for food."
+      ]
+    }
+  ]
+}
